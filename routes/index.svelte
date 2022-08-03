@@ -1,8 +1,9 @@
 <script context="module" lang="ts">
   export const prerender = true;
+  // export let posts = [];
 
   // TODO: be parsed from static posts/*.md
-  const posts = [
+  const staticPosts = [
     {
       title: "NFT is more than a bubble: It’s changing the Internet",
       author: "Author: Jieping Zhang, Annie",
@@ -17,6 +18,24 @@ Much talk has been going on about an “NFT bubble” and …`,
       link: "https://matterslab.medium.com/three-reasons-why-nft-is-the-next-evolution-of-art-collection-d2a7f0ff0897",
     },
   ];
+
+  export const load = async ({ fetch }) => {
+    // Runs before the component is created
+    const posts = await fetch("/posts.json");
+    const allPosts = await posts.json();
+
+    // console.log("load allPosts:", allPosts);
+    return {
+      props: {
+        posts: allPosts, // .concat(staticPosts),
+      },
+    };
+  };
+</script>
+
+<script lang="ts">
+  // import { getPosts } from './_posts';
+  export let posts;
 </script>
 
 <svelte:head>
@@ -42,10 +61,6 @@ Much talk has been going on about an “NFT bubble” and …`,
   <meta name="twitter:site" content="" />
   <title>Powering the Future of Web3</title>
 
-  <link rel="shortcut icon" href="img/favicon.ico" />
-  <link rel="stylesheet" href="css/app.min.css" />
-
-  <script src="js/app.min.js"></script>
   <script>
     window.onload = function () {
       index.init();
@@ -766,7 +781,7 @@ Much talk has been going on about an “NFT bubble” and …`,
     </header>
     <article>
       <div class="row">
-        {#each posts as post, i}
+        {#each posts.slice(0, 2) as post, i}
           <div class="col-12 col-md-6">
             <div class="digest">
               <div>
@@ -780,7 +795,9 @@ Much talk has been going on about an “NFT bubble” and …`,
               </div>
               <div>
                 <div class="buttons">
-                  <a class="btn" href={post.link} target="_blank">Read more</a>
+                  <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}
+                    >Read more</a
+                  >
                 </div>
               </div>
             </div>

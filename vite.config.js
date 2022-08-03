@@ -10,6 +10,12 @@ const config = {
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
+  server: {
+    fs: {
+      // Allow serving files from 'blog' from project root
+      allow: ["blog"],
+    },
+  },
 };
 
 export default config;
