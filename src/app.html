@@ -2,11 +2,22 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%sveltekit.assets%/favicon.png" />
+    <link rel="icon" href="%sveltekit.assets%/img/favicon.ico" />
     <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     %sveltekit.head%
   </head>
   <body>
-    <div>%sveltekit.body%</div>
+    <div id="wrapper">%sveltekit.body%</div>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2S8Y15KN45"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-2S8Y15KN45");
+    </script>
   </body>
 </html>
