@@ -34,8 +34,16 @@ Much talk has been going on about an “NFT bubble” and …`,
 </script>
 
 <script lang="ts">
+  import { onMount } from 'svelte';
+
   // import { getPosts } from './_posts';
+  import { LINKS } from "$lib/consts";
+
   export let posts;
+
+  onMount(() => {
+    index.init();
+  });
 </script>
 
 <svelte:head>
@@ -60,12 +68,6 @@ Much talk has been going on about an “NFT bubble” and …`,
   <meta property="fb:app_id" content="" />
   <meta name="twitter:site" content="" />
   <title>Powering the Future of Web3</title>
-
-  <script>
-    window.onload = function () {
-      index.init();
-    };
-  </script>
 </svelte:head>
 
 <section class="intro d-flex align-items-center flex-column flex-md-row">
@@ -259,7 +261,7 @@ Much talk has been going on about an “NFT bubble” and …`,
                 distributed file system.
               </p>
               <p>
-                Today, Matters.News is growing with more than 80,000 creators and 6 million monthly
+                Today, Matters.News is growing with more than 100,000 creators and 6 million monthly
                 page views committed to user experience, quality content, and free speech.
               </p>
             </div>
@@ -369,7 +371,7 @@ Much talk has been going on about an “NFT bubble” and …`,
           <div class="swiper-slide">
             <a
               class="digest"
-              href="https://www.cjr.org/analysis/china-censorship.php"
+              href="https://restofworld.org/2020/chinas-fugitive-writers-find-a-home-online/"
               target="_blank"
             >
               <div>
@@ -395,7 +397,7 @@ Much talk has been going on about an “NFT bubble” and …`,
           <div class="swiper-slide">
             <a
               class="digest"
-              href="https://restofworld.org/2020/chinas-fugitive-writers-find-a-home-online/"
+              href="https://www.protocol.com/nft-indepedent-chinese-language-media"
               target="_blank"
             >
               <div>
@@ -419,7 +421,7 @@ Much talk has been going on about an “NFT bubble” and …`,
           <div class="swiper-slide">
             <a
               class="digest"
-              href="https://www.protocol.com/nft-indepedent-chinese-language-media"
+              href="https://www.cjr.org/analysis/china-censorship.php"
               target="_blank"
             >
               <div>
@@ -517,7 +519,7 @@ Much talk has been going on about an “NFT bubble” and …`,
           <div class="swiper-slide">
             <a
               class="digest"
-              href="https://www.dw.com/zh/%E5%8C%BA%E5%9D%97%E9%93%BE%E8%AE%A9%E5%A5%BD%E6%96%B0%E9%97%BB%E6%9B%B4%E5%AE%89%E5%85%A8%E6%9B%B4%E5%80%BC%E9%92%B1/a-44329162?&amp;zhongwen=simp"
+              href="https://www.dw.com/zh/区块链让好新闻更安全更值钱/a-44329162?&zhongwen=trad"
               target="_blank"
             >
               <div>
@@ -549,14 +551,10 @@ Much talk has been going on about an “NFT bubble” and …`,
       <h2 class="d-inline-block align-self-start align-self-md-center">Behind Matters Lab</h2>
       <div class="buttons align-self-end align-self-md-center">
         <div class="d-flex flex-column">
-          <a
-            class="btn arrow"
-            href="https://www.cakeresume.com/companies/matters/jobs"
-            target="_blank"><span>JOIN US</span><i class="icon" /></a
-          ><a
-            class="btn arrow"
-            href="https://www.cakeresume.com/companies/matters/jobs"
-            target="_blank"><span>JOIN US</span><i class="icon" /></a
+          <a class="btn arrow" href={LINKS.joinus} target="_blank"
+            ><span>JOIN US</span><i class="icon" /></a
+          ><a class="btn arrow" href={LINKS.joinus} target="_blank"
+            ><span>JOIN US</span><i class="icon" /></a
           >
         </div>
       </div>

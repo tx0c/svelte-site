@@ -1,3 +1,7 @@
+<script lang="ts">
+  import { LINKS } from "$lib/consts";
+</script>
+
 <footer id="footer">
   <div class="container">
     <div class="row">
@@ -62,8 +66,7 @@
         <div class="list">
           <ul>
             <li>
-              <a href="https://www.cakeresume.com/companies/matters/jobs" target="_blank">Join Us</a
-              >
+              <a href={LINKS.joinus} target="_blank">Join Us</a>
             </li>
             <li>
               <a href="https://github.com/thematters/developer-resource" target="_blank">Github</a>

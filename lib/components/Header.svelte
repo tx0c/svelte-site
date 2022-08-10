@@ -1,3 +1,7 @@
+<script lang="ts">
+  import { LINKS } from "$lib/consts";
+</script>
+
 <nav id="nav">
   <div class="container-fluid p-0">
     <div class="d-flex justify-content-between align-items-center">
@@ -19,11 +23,7 @@
               target="_blank"><i class="icon" /></a
             >
           </div>
-          <a
-            class="btn outline"
-            href="https://www.cakeresume.com/companies/matters/jobs"
-            target="_blank"><span>JOIN US</span></a
-          >
+          <a class="btn outline" href={LINKS.joinus} target="_blank"><span>JOIN US</span></a>
           <div class="mobile d-lg-none">
             <button class="btn menu" onclick="index.menu(true)"><i class="icon" /></button>
             <button class="btn close" onclick="index.menu(false)"><i class="icon" /></button>
