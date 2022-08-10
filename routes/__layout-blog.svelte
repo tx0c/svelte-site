@@ -65,6 +65,10 @@
 </article>
 
 <style>
+  :global(main) {
+    padding: 0;
+  }
+
   article.post::before {
     display: block;
     content: "";
