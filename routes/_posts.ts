@@ -14,8 +14,10 @@ export async function getPosts() {
     })
   );
 
+  // console.log('allPosts:', allPosts);
+
   const sortedPosts = allPosts.sort((a, b) => {
-    return new Date(b.meta.date) - new Date(a.meta.date);
+    return Date.parse(b.date) - Date.parse(a.date);
   });
 
   return sortedPosts;

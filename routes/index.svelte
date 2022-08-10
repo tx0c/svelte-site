@@ -34,7 +34,7 @@ Much talk has been going on about an “NFT bubble” and …`,
 </script>
 
 <script lang="ts">
-  import { onMount } from 'svelte';
+  import { onMount } from "svelte";
 
   // import { getPosts } from './_posts';
   import { LINKS } from "$lib/consts";
@@ -787,7 +787,7 @@ Much talk has been going on about an “NFT bubble” and …`,
                   <h3>{post.title}</h3>
                 </div>
                 <div class="text">
-                  <p>{post.author}</p>
+                  <p>Author: {post.author}</p>
                   <p style="white-space: pre-wrap;">{post.summary}</p>
                 </div>
               </div>
