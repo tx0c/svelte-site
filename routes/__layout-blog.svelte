@@ -65,6 +65,11 @@
 </article>
 
 <style>
+  :root {
+    --main-color: #06c;
+    --colors-accent: blue;
+  }
+
   article.post::before {
     display: block;
     content: "";
@@ -79,6 +84,21 @@
     margin: 0 auto;
     padding: 1rem 0.5rem;
     max-width: 48rem;
+  }
+
+  article.post :global(blockquote) {
+    display: flex;
+    position: relative;
+  }
+  article.post :global(blockquote::before) {
+    content: "";
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0;
+    background-color: var(--theme-ui-colors-accent, var(--colors-accent));
+    width: 2px;
+    border-radius: 999px;
   }
 
   article.post :global(figcaption) {
@@ -119,7 +139,8 @@
   article.post :global(p),
   article.post :global(ul),
   article.post :global(h1),
-  article.post :global(h2) {
+  article.post :global(h2),
+  article.post :global(h3) {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }

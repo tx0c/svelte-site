@@ -1,13 +1,24 @@
 <script lang="ts">
+  import { page } from "$app/stores";
+
   import Header from "$lib/components/Header.svelte";
   import Footer from "$lib/components/Footer.svelte";
   // import "@/app.css";
+
+  import { LINKS } from "$lib/consts";
+
+  const { url, params } = $page;
 </script>
 
 <svelte:head>
   <link rel="shortcut icon" href="/img/favicon.ico" />
   <link rel="stylesheet" href="/css/app.min.css" />
   <script src="/js/app.min.js"></script>
+
+  {#if url.hostname !== LINKS.canonicalSite}
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="googlebot" content="noindex, nofollow" />
+  {/if}
 </svelte:head>
 
 <Header />

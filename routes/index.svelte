@@ -781,24 +781,19 @@ Much talk has been going on about an “NFT bubble” and …`,
       <div class="row">
         {#each posts.slice(0, 2) as post, i}
           <div class="col-12 col-md-6">
-            <div class="digest">
-              <div>
-                <div class="title">
-                  <h3>{post.title}</h3>
+            <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
+              <div class="digest">
+                <div>
+                  <div class="title">
+                    <h3>{post.title}</h3>
+                  </div>
+                  <div class="text">
+                    <p>Author: {post.author}</p>
+                    <p style="white-space: pre-wrap;">{post.summary}</p>
+                  </div>
                 </div>
-                <div class="text">
-                  <p>Author: {post.author}</p>
-                  <p style="white-space: pre-wrap;">{post.summary}</p>
-                </div>
-              </div>
-              <div>
-                <div class="buttons">
-                  <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}
-                    >Read more</a
-                  >
-                </div>
-              </div>
-            </div>
+              </div></a
+            >
           </div>
         {/each}
       </div>
