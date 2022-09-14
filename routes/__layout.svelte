@@ -15,10 +15,7 @@
   <link rel="stylesheet" href="/css/app.min.css" />
   <script src="/js/app.min.js"></script>
 
-  {#if url.hostname !== LINKS.canonicalSite}
-    <meta name="robots" content="noindex, nofollow" />
-    <meta name="googlebot" content="noindex, nofollow" />
-  {/if}
+  <link rel="canonical" href={`https://${LINKS.canonicalSite}${url.pathname}`} />
 </svelte:head>
 
 <Header />

@@ -16,10 +16,37 @@
 </script>
 
 <script lang="ts">
+  import { page } from "$app/stores";
   export let posts;
 
   $: [firstPost, ...restPosts] = posts;
+
+  const { url, params } = $page;
+
+  const title = "Matters-Lab Blog: Powering the Future of Web3";
 </script>
+
+<svelte:head>
+  <meta
+    name="description"
+    content="A Web3 social media ecosystem that lets users collaboratively create and monetize digital assets with complete control."
+  />
+  <meta property="og:title" content={title} />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://matters-lab.io/img/thumb.jpg?v=2" />
+  <meta property="og:url" content="https://matters-lab.io/blog" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    property="og:description"
+    content="A Web3 social media ecosystem that lets users collaboratively create and monetize digital assets with complete control."
+  />
+  <meta property="og:site_name" content="Matters-Lab: Powering the Future of Web3" />
+  <meta
+    name="twitter:image:alt"
+    content="A Web3 social media ecosystem that lets users collaboratively create and monetize digital assets with complete control."
+  />
+  <title>{title}</title>
+</svelte:head>
 
 <div class="container">
   <article class="post">
@@ -41,6 +68,7 @@
       </div>
     </div>
     <!-- <pre>{JSON.stringify(firstPost, null, 2)}</pre> -->
+    <!-- <pre>{JSON.stringify({ url, hostname: url.hostname, host: url.host, params }, null, 2)}</pre> -->
   </article>
 
   <div class="container">

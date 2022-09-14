@@ -60,7 +60,7 @@ Much talk has been going on about an “NFT bubble” and …`,
     property="og:description"
     content="A Web3 social media ecosystem that lets users collaboratively create and monetize digital assets with complete control."
   />
-  <meta property="og:site_name" content="Powering the Future of Web3" />
+  <meta property="og:site_name" content="Matters-Lab: Powering the Future of Web3" />
   <meta
     name="twitter:image:alt"
     content="A Web3 social media ecosystem that lets users collaboratively create and monetize digital assets with complete control."
