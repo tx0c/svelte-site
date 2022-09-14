@@ -23,7 +23,7 @@
               target="_blank"><i class="icon" /></a
             >
           </div>
-          <a class="btn outline" href={LINKS.joinus} target="_blank"><span>JOIN US</span></a>
+          <a class="btn outline" href="/#follow_us"><span>Follow Us</span></a>
           <div class="mobile d-lg-none">
             <button class="btn menu" onclick="index.menu(true)"><i class="icon" /></button>
             <button class="btn close" onclick="index.menu(false)"><i class="icon" /></button>

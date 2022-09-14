@@ -2,9 +2,9 @@
 title: "Matters Lab August 2022 Update｜Building a More Resilient and Decentralized Future After DDoS Attack"
 date: "Sep 8, 2022"
 author: Matters Lab
-imgCover: >
+imgCover: >-
   https://miro.medium.com/max/1400/1*9yRbVoqBAZQDaXCthnPGPw.gif
-summary: |
+summary: >-
   The DDoS attack is perhaps the best reminder that it is time to move on to the next chapter with decentralization. This requires the collaboration of different products and communities.
 categories:
   - Web3

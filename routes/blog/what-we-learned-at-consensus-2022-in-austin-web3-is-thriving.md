@@ -2,9 +2,9 @@
 title: "What We Learned at Consensus 2022 in Austin: Web3 is Thriving"
 date: "Aug 12, 2022"
 author: Matters Lab
-imgCover: >
+imgCover: >-
   https://mirror-media.imgix.net/publication-images/8o_PTW6VTBaRkXKRP5PZ5.jpeg?height=683&width=1366&h=683&w=1366&auto=compress
-summary: |
+summary: >-
   Find out what the Consensus by CoinDesk is, and a summary of what went down and what we learnt at Consensus 2022 in Austin, Texas.
 keywords:
   - consensus 2022

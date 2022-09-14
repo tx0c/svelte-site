@@ -769,10 +769,9 @@ Much talk has been going on about an “NFT bubble” and …`,
       <h2 class="d-inline-block align-self-start align-self-md-center">Our Latest Blogs:</h2>
       <div class="buttons align-self-end align-self-md-center">
         <div class="d-flex flex-column">
-          <a class="btn arrow" href="https://matterslab.medium.com/" target="_blank"
-            ><span>Read More</span><i class="icon" /></a
-          ><a class="btn arrow" href="https://matterslab.medium.com/" target="_blank"
-            ><span>Read More</span><i class="icon" /></a
+          <a class="btn arrow" href="/blog"><span>Read More</span><i class="icon" /></a><a
+            class="btn arrow"
+            href="/blog"><span>Read More</span><i class="icon" /></a
           >
         </div>
       </div>
