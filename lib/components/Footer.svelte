@@ -18,7 +18,7 @@
             ><i class="icon" /></a
           ><a class="btn social discord" href="http://discord.gg/matterslab" target="_blank"
             ><i class="icon" /></a
-          ><a class="btn social medium" href="https://matterslab.medium.com/" target="_blank"
+          ><a class="btn social medium" href="/blog"
             ><i class="icon" /></a
           ><a
             class="btn social opensea"
@@ -71,7 +71,7 @@
             <li>
               <a href="https://github.com/thematters/developer-resource" target="_blank">Github</a>
             </li>
-            <li><a href="https://matterslab.medium.com/" target="_blank">Blog</a></li>
+            <li><a href="/blog">Blog</a></li>
           </ul>
         </div>
       </div>

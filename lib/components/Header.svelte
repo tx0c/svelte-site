@@ -15,8 +15,10 @@
             ><a href="https://thespace.game/" target="_blank">The Space</a><a
               href="https://logbook.matters.news/"
               target="_blank">Logbook</a
-            ><a class="btn social twitter" href="https://twitter.com/Mattersw3b" target="_blank"
-              ><i class="icon" /></a
+            ><a class="d-block" href="/blog">Blog</a><a
+              class="btn social twitter"
+              href="https://twitter.com/Mattersw3b"
+              target="_blank"><i class="icon" /></a
             ><a
               class="btn social discord"
               href="https://discord.com/invite/matterslab"
@@ -41,5 +43,6 @@
     </li>
     <li><a class="d-block" href="https://thespace.game/" target="_blank">The Space</a></li>
     <li><a class="d-block" href="https://logbook.matters.news/" target="_blank">Logbook</a></li>
+    <li><a class="d-block" href="/blog">Blog</a></li>
   </ul>
 </menu>

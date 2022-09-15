@@ -1,30 +1,11 @@
 <script context="module" lang="ts">
   export const prerender = true;
-  // export let posts = [];
-
-  // TODO: be parsed from static posts/*.md
-  const staticPosts = [
-    {
-      title: "NFT is more than a bubble: It’s changing the Internet",
-      author: "Author: Jieping Zhang, Annie",
-      summary: `NFTs are exploding in popularity in the cryptocurrency market, with sales of more than 2.5 billion U.S. dollars as of July 2021, up from 13.7 million U.S. dollars in the first half of 2020.
-Much talk has been going on about an “NFT bubble” and …`,
-      link: "https://matterslab.medium.com/nft-is-more-than-a-bubble-its-changing-the-internet-424024eebb17",
-    },
-    {
-      title: "Three reasons why NFT is the next evolution of art collection",
-      author: "Author: Jieping Zhang, Annie",
-      summary: `Since 2021, NFTs (Non-Fungible Token) has exploded in popularity, mesmerizing the general public, artists, gamers and other creatives in the entertainment and media sectors. The media called the popularity of NFTs “strange and iconic”. …`,
-      link: "https://matterslab.medium.com/three-reasons-why-nft-is-the-next-evolution-of-art-collection-d2a7f0ff0897",
-    },
-  ];
 
   export const load = async ({ fetch }) => {
     // Runs before the component is created
     const posts = await fetch("/posts.json");
     const allPosts = await posts.json();
 
-    // console.log("load allPosts:", allPosts);
     return {
       props: {
         posts: allPosts, // .concat(staticPosts),
