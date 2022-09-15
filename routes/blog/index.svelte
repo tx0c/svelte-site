@@ -71,7 +71,7 @@
     <!-- <pre>{JSON.stringify({ url, hostname: url.hostname, host: url.host, params }, null, 2)}</pre> -->
   </article>
 
-  <div class="container">
+  <div class="divider container">
     <header class="d-flex justify-content-between align-items-center flex-column flex-md-row">
       <h2 class="d-inline-block align-self-start align-self-md-center" />
       <div class="buttons align-self-end align-self-md-center">
@@ -84,7 +84,7 @@
 
   <div class="more-posts">
     {#each restPosts as post, i}
-      <div class="col-12 col-md-6">
+      <div class="col-12 col-md-6 item">
         <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
           <div class="digest">
             <div>
@@ -142,7 +142,26 @@
     color: #b3b3b3;
   }
 
+  div.divider {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
   .more-posts {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  @media screen and (max-width: 768px) {
+    .first,
+    .more-posts {
+      flex-direction: column;
+    }
+  }
+
+  .more-posts .item {
+    /* margin: 0.25rem; */
   }
 </style>

@@ -18,7 +18,7 @@
   export let keywords = [];
   export let categories = [];
   $: description = summary.replace(/(\s+|\n)/g, " ").trim(); // squeeze all extra spaces out
-  $: metaKeywords = Array.from(new Set([keywords, categories, ["Web3", "MattersLab"]].flat())).join(
+  $: metaKeywords = Array.from(new Set([categories, keywords, ["Web3", "MattersLab"]].flat())).join(
     ", "
   );
 
