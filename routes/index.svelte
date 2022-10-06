@@ -731,8 +731,6 @@
             class="btn social discord"
             href="https://discord.com/invite/matterslab"
             target="_blank"><i class="icon" /></a
-          ><a class="btn social medium" href="https://matterslab.medium.com/" target="_blank"
-            ><i class="icon" /></a
           ><a
             class="btn social linkedin"
             href="https://www.linkedin.com/company/matters-lab/"
