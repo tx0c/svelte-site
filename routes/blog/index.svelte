@@ -84,7 +84,7 @@
 
   <div class="more-posts">
     {#each restPosts as post, i}
-      <div class="col-12 col-md-6 item">
+      <div class="item">
         <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
           <div class="digest">
             <div>
@@ -148,16 +148,17 @@
   }
 
   .more-posts {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0.625rem;
+    row-gap: 3rem;
   }
 
   @media screen and (max-width: 768px) {
     .first,
     .more-posts {
       flex-direction: column;
+      grid-template-columns: 1fr;
     }
   }
 
