@@ -43,6 +43,6 @@
     </li>
     <li><a class="d-block" href="https://thespace.game/" target="_blank">The Space</a></li>
     <li><a class="d-block" href="https://logbook.matters.news/" target="_blank">Logbook</a></li>
-    <li><a class="d-block" href="/blog">Blog</a></li>
+    <li><a class="d-block" href="/blog" on:click={() => index.menu(false)}>Blog</a></li>
   </ul>
 </menu>

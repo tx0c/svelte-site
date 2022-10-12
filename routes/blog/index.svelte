@@ -76,7 +76,7 @@
       <h2 class="d-inline-block align-self-start align-self-md-center" />
       <div class="buttons align-self-end align-self-md-center">
         <div class="d-flex flex-column">
-          <a class="btn arrow"><span>Read More</span><i class="icon" /></a>
+          <a class="btn arrow"><span>Our Latest Blogs</span><i class="icon" /></a>
         </div>
       </div>
     </header>
@@ -86,16 +86,18 @@
     {#each restPosts as post, i}
       <div class="item">
         <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
+          <div class="cover">
+            <img src={post.imgCover} />
+          </div>
           <div class="digest">
-            <div>
-              <div class="title">
-                <h3>{post.title}</h3>
-              </div>
-              <div class="text">
-                <p>Author: {post.author}</p>
-                <p style="white-space: pre-wrap;">{post.summary}</p>
-              </div>
+            <div class="title">
+              <h3>{post.title}</h3>
             </div>
+              <!-- <div class="text">
+                <p>Author: {post.author}</p>
+                <!-- <p style="white-space: pre-wrap;">{post.summary}</p>
+              </div> -->
+            <div class="d-flex justify-content-between" style="width: 100%"><div/><i class="align-self-end icon"></i></div>
           </div></a
         >
       </div>
@@ -164,5 +166,44 @@
 
   .more-posts .item {
     /* margin: 0.25rem; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+
+    background: #1C1C1C;
+    border-radius: 1rem;
+
+    min-height: 16rem;
+  }
+
+  .more-posts .item .cover {
+    /* background: url(), #D9D9D9; */
+    border-radius: 1rem 0 0 1rem;
+  }
+  .more-posts .item .cover img {
+    object-fit: cover;
+    max-width: 16rem;
+  }
+
+  .more-posts .item .digest {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.5rem 2rem;
+    gap: 2.5rem;
+  }
+
+  .more-posts .item .digest .title h3 {
+    font-size: 1rem;
+    color: #F7F7F7;
+  }
+
+  .digest i.icon {
+    background-image: url(../img/icon-arrow.svg);
+    width: 55px;
+    height: 11px;
   }
 </style>
