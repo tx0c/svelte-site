@@ -18,8 +18,6 @@
             ><i class="icon" /></a
           ><a class="btn social discord" href="http://discord.gg/matterslab" target="_blank"
             ><i class="icon" /></a
-          ><a class="btn social medium" href="/blog"
-            ><i class="icon" /></a
           ><a
             class="btn social opensea"
             href="https://opensea.io/collection/traveloggers"

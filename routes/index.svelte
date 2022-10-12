@@ -322,9 +322,10 @@
             <div class="text">
               <p>
                 Matters Lab’s publishing ecosystem surrounding creator economy include multiple
-                grants that empower independent writers: Frontline Award to support civil
-                journalists worldwide, Million Matters Community Fund and Rocket Fund for community,
-                Discord Matterverse Moderator Fund, all to incubate a CreatorDAO in near future.
+                grants that empower independent writers: Frontline Fellowship for Chinese
+                Non-Fiction Writing to support civil journalists worldwide, Million Matters
+                Community Fund and Rocket Fund for community, Discord Matterverse Moderator Fund,
+                all to incubate a CreatorDAO in near future.
               </p>
             </div>
             <div class="buttons text-end">
