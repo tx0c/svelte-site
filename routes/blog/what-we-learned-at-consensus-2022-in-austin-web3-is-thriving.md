@@ -82,4 +82,6 @@ Finally, Consensus by CoinDesk is a fantastic place where all Web3 ideas are sha
 
 _Interested in NFTs? Find our inaugural NFT collection, [Traveloggers](https://traveloggers.matters.news/), on OpenSea [here](https://opensea.io/collection/traveloggers)._
 
+---
+
 _Follow us on [Medium](https://matterslab.medium.com/) and [@MattersW3b](https://twitter.com/MattersW3b) and [@TheSpace2022](https://twitter.com/TheSpace2022) on Twitter for the latest news and insights on NFT and web3, or sign up for our email newsletter on [our website](https://matters-lab.io/)._

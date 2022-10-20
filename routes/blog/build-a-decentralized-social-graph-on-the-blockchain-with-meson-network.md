@@ -73,4 +73,6 @@ As [Matters Lab](https://matters-lab.io/) further decentralized its social and c
 
 Our third project, [The Space](https://thespace.game/), is the only draw-to-earn NFT art game in the market that experiments with radical market principles like the Harberger Tax and Universal Basic Income. Play now [here](https://app.thespace.game/).
 
+---
+
 _Follow us on @[MattersLab](https://twitter.com/matterslab) on Twitter for the latest news and insights on NFT and web3, or start creating on our platform, [www.Matters.News](http://www.matters.news)._

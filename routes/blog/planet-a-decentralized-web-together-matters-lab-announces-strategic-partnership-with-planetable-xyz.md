@@ -41,4 +41,6 @@ This strategic partnership with Planet is only the beginning, [Matters Lab](http
 
 [Planet](https://planetable.xyz) is a free and open-source software for publishing and following web content, and it does not require a centralized server or service. It uses IPFS to achieve peer-to-peer content distribution. Furthermore, you can link your content to an Ethereum Name (.eth) so that others can follow you via Planet by the .eth name. Since both IPFS and ENS are decentralized, you can build your websites or follow others, all in a decentralized manner.
 
+---
+
 _Follow us on @[Mattersw3b](https://twitter.com/mattersw3b) and [@planetable.eth](https://twitter.com/PlanetableXYZ) on Twitter for the latest news and insights on dWeb and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news)._

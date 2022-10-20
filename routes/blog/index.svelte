@@ -118,7 +118,7 @@
   article.post div {
     margin: 0 auto;
     padding: 1rem 0.5rem;
-    max-width: 64rem;
+    max-width: 67.5rem;
   }
   article.post div h1 {
     display: none;
@@ -164,15 +164,6 @@
     gap: 3rem;
   }
 
-  @media screen and (max-width: 768px) {
-    .first,
-    .more-posts {
-      flex-direction: column;
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-  }
-
   .more-posts .item {
     /* margin: 0.25rem; */
     display: flex;
@@ -207,7 +198,7 @@
   }
 
   .more-posts .item .digest .title h3 {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: #f7f7f7;
   }
 
@@ -215,5 +206,28 @@
     background-image: url(/img/icon-arrow.svg);
     width: 55px;
     height: 11px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .first,
+    .more-posts {
+      flex-direction: column;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+    .more-posts .item .digest {
+      padding: 0.5rem;
+      gap: 0.5rem;
+    }
+    .more-posts .item .digest .title h3 {
+      font-size: 1rem;
+    }
+    .more-posts .item {
+      min-height: 10rem;
+    }
+    .more-posts .item .cover img {
+      max-width: 8rem;
+      height: 10rem;
+    }
   }
 </style>

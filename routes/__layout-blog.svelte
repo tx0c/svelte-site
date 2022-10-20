@@ -70,6 +70,9 @@
     --colors-accent: blue;
   }
 
+  :global(nav#nav)::before {
+    background: black;
+  }
   article.post::before {
     display: block;
     content: "";
@@ -83,7 +86,7 @@
   article.post div {
     margin: 0 auto;
     padding: 1rem 0.5rem;
-    max-width: 48rem;
+    max-width: 67.5rem;
   }
 
   article.post :global(blockquote) {
@@ -102,6 +105,7 @@
   }
 
   article.post :global(figcaption) {
+    margin-top: -1.5rem;
     color: rgb(0 0 0 / 40%);
     text-align: center;
   }
@@ -109,7 +113,7 @@
   article.post :global(*) {
     margin-top: 0.75rem;
     margin-bottom: 0.75rem;
-    max-width: 48rem;
+    max-width: 67.5rem;
     width: 100%;
   }
 
@@ -144,11 +148,31 @@
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
+  article.post :global(h2),
+  article.post :global(h3) {
+    padding-top: 1.5rem;
+  }
 
   article.post :global(li) {
     list-style: none;
     margin-top: 0.5rem;
     position: relative;
     padding-left: 2rem;
+  }
+
+  article.post :global(hr) {
+    display: block;
+    width: 10rem;
+    height: 0.25rem;
+    margin: 2rem auto;
+    border-width: 1px 0px;
+    color: initial;
+    background-color: initial;
+    border: 0 initial;
+    opacity: initial;
+    box-sizing: content-box;
+    overflow: visible;
+    border-top: 1px solid rgba(0, 0, 0, 0.24);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.24);
   }
 </style>
