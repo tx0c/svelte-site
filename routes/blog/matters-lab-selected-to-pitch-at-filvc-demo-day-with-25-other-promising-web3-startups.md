@@ -30,4 +30,6 @@ We support content with multi-language auto-translation, capturing topics that t
 
 FIL-Singapore ’22 Summit takes place in the afternoon of Sep 26, 2022, from 3:30–6:00 PM as part of [FIL-Singapore](https://www.fil-singapore.io/), the biggest in-person Filecoin gathering in Asia with community partners from all across the Filecoin Ecosystem.
 
+---
+
 _Follow us on [Matters Lab Blog](https://matters-lab.io/blog) and [@MattersW3b](https://twitter.com/MattersW3b) on Twitter for the latest news and insights on creator economy and web3, or sign up for our email newsletter on [our website.](https://matters-lab.io/#follow_us)_

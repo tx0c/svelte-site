@@ -75,4 +75,6 @@ To achieve truly decentralized, user-owned digital assets are two key aspects in
 
 **https://twitter.com/Mattersw3b**
 
+---
+
 **Matters Lab [is actively hiring full-stack and blockchain engineers](https://matterslab.notion.site/Matters-Lab-Job-Board-Public-4221b899fdca4c91b46119d64ab23daf) : [Matters’ LinkedIn](https://www.linkedin.com/company/matters-lab)**

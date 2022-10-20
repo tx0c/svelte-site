@@ -207,7 +207,7 @@
   }
 
   .more-posts .item .digest .title h3 {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: #f7f7f7;
   }
 

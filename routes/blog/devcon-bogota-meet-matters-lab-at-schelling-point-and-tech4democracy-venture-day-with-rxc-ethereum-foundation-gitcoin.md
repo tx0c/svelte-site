@@ -28,4 +28,6 @@ For all Web3 users, builders, creators, investors and evangelists, if you will b
 
 > DevCon takes place in Oct 11th-14th, at Agora Bogotá Convention Center. It is an intensive introduction for new Ethereum explorers, a global family reunion for those already a part of our ecosystem, and a source of energy and creativity for all.
 
+---
+
 _Follow us on [Matters Lab Blog](https://matters-lab.io/blog) and [@MattersW3b](https://twitter.com/MattersW3b) on Twitter for the latest news and insights on creator economy and web3, or sign up for our email newsletter on [our website.](https://matters-lab.io/#follow_us)_
