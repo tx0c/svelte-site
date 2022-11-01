@@ -40,8 +40,6 @@ Matters Lab will continue to collaborate with efficient application in the Web3 
 
 [Polygon](https://polygon.technology) is the leading platform for Ethereum scaling and infrastructure development. Its growing suite of products offers developers easy access to all major scaling and infrastructure solutions: L2 solutions (ZK Rollups and Optimistic Rollups), sidechains, hybrid solutions, stand-alone and enterprise chains, data availability solutions, and more. Polygon’s scaling solutions have seen widespread adoption with 19,000+ decentralized applications hosted, 1.6B+ total transactions processed, \~142M+ unique user addresses, and $5B+ in assets secured.
 
-<subscribe://>
-
 ---
 
-*Follow us on [ @Mattersw3b](https://twitter.com/mattersw3b), [ @0xPolygon](https://twitter.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[ , @polygonstudios](https://twitter.com/polygonstudios) and [@Tether_to](https://twitter.com/Tether_to) on Twitter for the latest news and insights on Web3 and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news).*
+_Follow us on [ @Mattersw3b](https://twitter.com/mattersw3b), [ @0xPolygon](https://twitter.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[ , @polygonstudios](https://twitter.com/polygonstudios) and [@Tether_to](https://twitter.com/Tether_to) on Twitter for the latest news and insights on Web3 and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news).*
