@@ -16,10 +16,9 @@ keywords:
   - Creator Economy
 ---
 
+![Matters.News now support Polygon-USDT as one of the cryptocurrencies payment methods.](https://mirror-media.imgix.net/publication-images/2PavWqvCQLIYHl4uhFf9n.jpeg?height=2501&width=5001&h=2501&w=5001&auto=compress)
 
-![Matters.News now support Polygon-USDT as one of the cryptocurrencies payment methods.](https://Matters Lab is delighted to achieve the milestone of launching Tether (USDT) deployed on Polygon as one of the cryptocurrency Support methods.s.mirror-media.xyz/publication-images/sMWNjhckDK0A7hl2iYHNq.jpg?height=2814&width=5001)
-
-<figcaption>Matters Lab is delighted to achieve the milestone of launching Tether (USDT) deployed on Polygon as one of the cryptocurrency Support methods.</figcaption>
+<figcaption> Matters Lab is delighted to achieve the milestone of launching Tether (USDT) deployed on Polygon as one of the cryptocurrency Support methods.</figcaption>
 
 [Matters Lab](https://matters-lab.io) continues to build a better creator ecosystem, in which a complete choice of financial support methods lays the foundation. Matters Lab is delighted to achieve the milestone of launching [Tether (USDT)](https://tether.to/) deployed on [Polygon](https://polygon.technology/) as one of the cryptocurrency Support methods in Q4 2022.
 
