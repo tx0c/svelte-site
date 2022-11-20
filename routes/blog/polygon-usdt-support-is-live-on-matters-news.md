@@ -42,4 +42,4 @@ Matters Lab will continue to collaborate with efficient application in the Web3 
 
 ---
 
-_Follow us on [ @Mattersw3b](https://twitter.com/mattersw3b), [ @0xPolygon](https://twitter.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[ , @polygonstudios](https://twitter.com/polygonstudios) and [@Tether_to](https://twitter.com/Tether_to) on Twitter for the latest news and insights on Web3 and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news).*
+_Follow us on [ @Mattersw3b](https://twitter.com/mattersw3b), [ @0xPolygon](https://twitter.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[ , @polygonstudios](https://twitter.com/polygonstudios) and [@Tether_to](https://twitter.com/Tether_to) on Twitter for the latest news and insights on Web3 and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news).* _

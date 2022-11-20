@@ -32,4 +32,4 @@ FIL-Singapore ’22 Summit takes place in the afternoon of Sep 26, 2022, from 3:
 
 ---
 
-_Follow us on [Matters Lab Blog](https://matters-lab.io/blog) and [@MattersW3b](https://twitter.com/MattersW3b) on Twitter for the latest news and insights on creator economy and web3, or sign up for our email newsletter on [our website.](https://matters-lab.io/#follow_us)_
+_Follow us on [Matters Lab Blog](https://matters-lab.io/blog) and [@MattersW3b](https://twitter.com/MattersW3b) on Twitter for the latest news and insights on creator economy and web3, or sign up for our email newsletter on [our website.](https://matters-lab.io/#follow_us)._

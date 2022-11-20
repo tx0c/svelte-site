@@ -93,10 +93,6 @@
             <div class="title">
               <h3>{post.title}</h3>
             </div>
-            <!-- <div class="text">
-                <p>Author: {post.author}</p>
-                <!-- <p style="white-space: pre-wrap;">{post.summary}</p>
-              </div> -->
             <div class="d-flex justify-content-between" style="width: 100%">
               <div />
               <i class="align-self-end icon" />
@@ -117,9 +113,10 @@
 
   article.post div {
     margin: 0 auto;
-    padding: 1rem 0.5rem;
     max-width: 67.5rem;
+
   }
+
   article.post div h1 {
     display: none;
   }
@@ -136,6 +133,7 @@
     align-items: center;
     column-gap: 1rem;
   }
+  
   .first > * {
     flex: 1;
   }
