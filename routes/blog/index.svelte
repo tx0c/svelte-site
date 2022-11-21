@@ -72,7 +72,7 @@
   </article>
 
   <div class="divider container">
-    <header class="d-flex justify-content-between align-items-center flex-column flex-md-row">
+    <header class="d-flex align-items-center flex-column flex-md-row">
       <h2 class="d-inline-block align-self-start align-self-md-center" />
       <div class="buttons align-self-end align-self-md-center">
         <div class="d-flex flex-column">
@@ -85,7 +85,7 @@
   <div class="more-posts">
     {#each restPosts as post, i}
       <div class="item">
-        <a class="btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
+        <a class="clickable-btn btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
           <div class="cover">
             <img src={post.imgCover} />
           </div>
@@ -93,16 +93,13 @@
             <div class="title">
               <h3>{post.title}</h3>
             </div>
-            <!-- <div class="text">
-                <p>Author: {post.author}</p>
-                <!-- <p style="white-space: pre-wrap;">{post.summary}</p>
-              </div> -->
-            <div class="d-flex justify-content-between" style="width: 100%">
+
+            <div class="d-flex justify-content-between arrow-icon" style="width: 100%">
               <div />
               <i class="align-self-end icon" />
             </div>
-          </div></a
-        >
+          </div>
+        </a>
       </div>
     {/each}
   </div>
@@ -163,13 +160,16 @@
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
   }
+  .more-posts .item .clickable-btn{
+    display: flex;
 
+  }
   .more-posts .item {
     /* margin: 0.25rem; */
-    display: flex;
-    flex-direction: row;
+    /* display: flex; */
+    /* flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
     padding: 0;
 
     background: #1c1c1c;
@@ -193,10 +193,15 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    padding: 1.5rem 2rem;
+    padding: 0rem 2rem;
+    margin-top: 24px;
     gap: 2.5rem;
+}
+  .more-posts .item .digest .arrow-icon {
+    width: 100%;
+    /* margin-top: 40px; */
+    margin-bottom: 24px;
   }
-
   .more-posts .item .digest .title h3 {
     font-size: 1.2rem;
     color: #f7f7f7;
