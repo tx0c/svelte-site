@@ -1,9 +1,9 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  // import { goto } from "$app/navigation";
+  import { goto } from "$app/navigation";
   onMount(() => {
-    // const timer = setTimeout(() => goto("/", { replaceState: true }), 0e3);
-    // return () => clearTimeout(timer);
+    const timer = setTimeout(() => goto("/", { replaceState: true }), 5000);
+    return () => clearTimeout(timer);
   });
 </script>
 
