@@ -6,7 +6,6 @@
     const posts = await fetch("/posts.json");
     const allPosts = await posts.json();
 
-    // console.log("load allPosts:", allPosts);
     return {
       props: {
         posts: allPosts, // .concat(staticPosts),
@@ -72,9 +71,9 @@
   </article>
 
   <div class="divider container">
-    <header class="d-flex justify-content-between align-items-center flex-column flex-md-row">
+    <header class="d-flex align-items-center flex-column flex-md-row">
       <h2 class="d-inline-block align-self-start align-self-md-center" />
-      <div class="buttons align-self-end align-self-md-center">
+      <div class="buttons align-self-start align-self-md-center">
         <div class="d-flex flex-column">
           <a class="btn arrow"><span>Our Latest Blogs</span><i class="icon" /></a>
         </div>
@@ -93,11 +92,7 @@
             <div class="title">
               <h3>{post.title}</h3>
             </div>
-            <!-- <div class="text">
-                <p>Author: {post.author}</p>
-                <!-- <p style="white-space: pre-wrap;">{post.summary}</p>
-              </div> -->
-            <div class="d-flex justify-content-between" style="width: 100%">
+            <div class="d-flex justify-content-between click-icon" style="width: 100%">
               <div />
               <i class="align-self-end icon" />
             </div>
@@ -189,12 +184,12 @@
   }
 
   .more-posts .item .digest {
+    height: 126px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
     padding: 1.5rem 2rem;
-    gap: 2.5rem;
   }
 
   .more-posts .item .digest .title h3 {
@@ -202,10 +197,15 @@
     color: #f7f7f7;
   }
 
+  .digest .title{
+    margin-bottom: 7px;
+  }
+
   .digest i.icon {
     background-image: url(/img/icon-arrow.svg);
     width: 55px;
     height: 11px;
+    margin-top: 7px;
   }
 
   @media screen and (max-width: 768px) {
