@@ -6,7 +6,6 @@
     const posts = await fetch("/posts.json");
     const allPosts = await posts.json();
 
-    // console.log("load allPosts:", allPosts);
     return {
       props: {
         posts: allPosts, // .concat(staticPosts),
@@ -50,7 +49,7 @@
 
 <div class="container">
   <article class="post">
-    <div>
+    <div class="banner">
       <h1>Blog</h1>
       <a href={firstPost.path} class="first">
         <figure><img src={firstPost.imgCover} /></figure>
@@ -74,12 +73,6 @@
     </div>
   </article>
 
-  <!-- <div class="divider container">
-    <header class="d-flex flex-column flex-md-row">
-      <a class="btn arrow"><h2 class="latest-blog">Our Latest Blogs</h2></a>
-
-    </header>
-  </div> -->
    <a class="btn arrow"><h2 class="latest-blog">Our Latest Blogs</h2></a>
 
   <div class="more-posts">
@@ -130,11 +123,12 @@
     object-fit: contain;
     border-radius: 1rem;
   }
-
+  .banner {
+    margin-top: 128px;
+  }
   .first {
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     column-gap: 1rem;
   }
   .first > * {
@@ -210,11 +204,6 @@
     display: flex;
   }
   .more-posts .item {
-    /* margin: 0.25rem; */
-    /* display: flex; */
-    /* flex-direction: row;
-    align-items: center;
-    justify-content: center; */
     padding: 0;
 
     background: #1c1c1c;
@@ -261,8 +250,8 @@
     .container {
       padding: 0 16px;
     }
-    figure {
-      margin-top: 24px;
+    .banner {
+      margin-top: 32px;
     }
     .subtitle {
       margin: 16px 0;
