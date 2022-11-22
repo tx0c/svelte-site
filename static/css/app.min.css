@@ -555,6 +555,7 @@ progress {
 }
 
 .container,
+.blog-container,
 .container-fluid,
 .container-lg,
 .container-md,
@@ -11334,6 +11335,13 @@ body hr {
     max-width: 1080px;
     /* padding: 0 16px */
 }
+
+#wrapper .blog-container {
+    max-width: 1520px;
+    padding: 0 16px;
+
+}
+
 
 /* @media(min-width: 992px) {
     #wrapper .container {

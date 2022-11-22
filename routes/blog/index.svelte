@@ -5,7 +5,6 @@
     // Runs before the component is created
     const posts = await fetch("/posts.json");
     const allPosts = await posts.json();
-
     return {
       props: {
         posts: allPosts, // .concat(staticPosts),
@@ -52,7 +51,7 @@
     <div class="banner">
       <h1>Blog</h1>
       <a href={firstPost.path} class="first">
-        <figure><img src={firstPost.imgCover} /></figure>
+        <div class="img-cover" ><img src={firstPost.imgCover} alt=""></div>
         <div class="right">
           <div class="content">
             <h2 class="title">{firstPost.title}</h2>
@@ -73,7 +72,7 @@
     </div>
   </article>
 
-   <a class="btn arrow"><h2 class="latest-blog">Our Latest Blogs</h2></a>
+  <a class="btn arrow"><h2 class="latest-blog">Our Latest Blogs</h2></a>
 
   <div class="more-posts">
     {#each restPosts as post, i}
@@ -103,6 +102,7 @@
 </div>
 
 <style>
+
   article.post::before {
     display: block;
     content: "";
@@ -118,9 +118,15 @@
     display: none;
   }
 
+  .img-cover {
+    width: 842px;
+    height: 634px;
+  }
+
   img {
     max-width: 100%;
-    object-fit: contain;
+    object-fit: cover;
+    height: 100%;
     border-radius: 1rem;
   }
   .banner {
@@ -131,10 +137,6 @@
     justify-content: center;
     column-gap: 1rem;
   }
-  .first > * {
-    flex: 1;
-  }
-
   .first .title {
     font-family: "Roboto";
     font-style: normal;
@@ -148,6 +150,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin-left: 40px;
   }
 
   .subtitle {
@@ -172,25 +175,20 @@
     line-height: 32px;
     align-self: baseline;
   }
-  
+
   .bottom-icon i.icon {
     background-repeat: no-repeat;
     width: 155px;
     height: 11px;
   }
 
-  div.divider {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
-
   .latest-blog {
-    background: linear-gradient(106.84deg, #43C0B9 8.4%, #228CDA 51.17%, #B81DEF 97.66%);
+    background: linear-gradient(106.84deg, #43c0b9 8.4%, #228cda 51.17%, #b81def 97.66%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 28px;
     font-weight: 700;
-    line-height: 32px; 
+    line-height: 32px;
     margin-top: 168px;
     margin-bottom: 60px;
   }
@@ -247,6 +245,18 @@
   }
 
   @media screen and (max-width: 768px) {
+
+    .img-cover {
+      width: 343px;
+      height: 267px;
+    }
+
+    img {
+      max-width: 100% ;  
+      height: 100%;
+      object-fit: cover;
+      border-radius: 1rem;
+    }
     .container {
       padding: 0 16px;
     }
@@ -256,17 +266,22 @@
     .subtitle {
       margin: 16px 0;
     }
-   .summery {
-    margin-bottom: 24px;
-   }
+    .summery {
+      margin-bottom: 24px;
+    }
 
-   .bottom-icon i {
-    align-self: baseline;
-   }
-   .latest-blog {
-    margin-top: 116px;
-    margin-bottom: 12px;
-   }
+    .bottom-icon i {
+      align-self: baseline;
+    }
+    .latest-blog {
+      margin-top: 116px;
+      margin-bottom: 12px;
+    }
+
+    .first .right {
+      margin-left: 0px;
+    }
+
     .first,
     .more-posts {
       flex-direction: column;

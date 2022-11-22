@@ -15,7 +15,6 @@ export async function getPosts() {
   );
 
   // console.log('allPosts:', allPosts);
-
   const sortedPosts = allPosts.sort((a, b) => {
     return Date.parse(b.date) - Date.parse(a.date);
   });
