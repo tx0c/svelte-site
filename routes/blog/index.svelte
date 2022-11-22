@@ -52,40 +52,44 @@
   <article class="post">
     <div>
       <h1>Blog</h1>
-      <div class="first">
+      <a href={firstPost.path} class="first">
         <figure><img src={firstPost.imgCover} /></figure>
-        <a href={firstPost.path}>
-          <div>
+        <div class="right">
+          <div class="content">
             <h2 class="title">{firstPost.title}</h2>
             <div class="subtitle">
-              <span>{firstPost.date}</span>
-              ・
-              <span>{firstPost.author}</span>
+              <div>{firstPost.date}</div>
+              <div>・</div>
+              <div>{firstPost.author}</div>
             </div>
-            <p class="subtitle">{firstPost.summary}</p>
+            <p class="summery">{firstPost.summary}</p>
           </div>
-        </a>
-      </div>
+
+          <div class="bottom-icon btn arrow">
+            <span>Read the story</span>
+            <i class="icon" />
+          </div>
+        </div>
+      </a>
     </div>
-    <!-- <pre>{JSON.stringify(firstPost, null, 2)}</pre> -->
-    <!-- <pre>{JSON.stringify({ url, hostname: url.hostname, host: url.host, params }, null, 2)}</pre> -->
   </article>
 
-  <div class="divider container">
-    <header class="d-flex align-items-center flex-column flex-md-row">
-      <h2 class="d-inline-block align-self-start align-self-md-center" />
-      <div class="buttons align-self-end align-self-md-center">
-        <div class="d-flex flex-column">
-          <a class="btn arrow"><span>Our Latest Blogs</span><i class="icon" /></a>
-        </div>
-      </div>
+  <!-- <div class="divider container">
+    <header class="d-flex flex-column flex-md-row">
+      <a class="btn arrow"><h2 class="latest-blog">Our Latest Blogs</h2></a>
+
     </header>
-  </div>
+  </div> -->
+   <a class="btn arrow"><h2 class="latest-blog">Our Latest Blogs</h2></a>
 
   <div class="more-posts">
     {#each restPosts as post, i}
       <div class="item">
-        <a class="clickable-btn btn" href={post.path || post.link} target={post.path ? null : "_blank"}>
+        <a
+          class="clickable-btn btn"
+          href={post.path || post.link}
+          target={post.path ? null : "_blank"}
+        >
           <div class="cover">
             <img src={post.imgCover} />
           </div>
@@ -113,8 +117,8 @@
   }
 
   article.post div {
-    margin: 0 auto;
-    padding: 1rem 0.5rem;
+    /* margin: 0 auto; */
+    /* padding: 1rem 0rem; */
     max-width: 67.5rem;
   }
   article.post div h1 {
@@ -130,7 +134,7 @@
   .first {
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     column-gap: 1rem;
   }
   .first > * {
@@ -146,8 +150,39 @@
     color: #f7f7f7;
   }
 
+  .first .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
   .subtitle {
+    display: flex;
+    justify-content: start;
+    margin: 24px 0;
+    gap: 4px;
     color: #b3b3b3;
+  }
+
+  .summery {
+    color: #b3b3b3;
+  }
+
+  .bottom-icon {
+    align-self: start;
+  }
+  .bottom-icon span {
+    color: #1ed7e2;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    align-self: baseline;
+  }
+  
+  .bottom-icon i.icon {
+    background-repeat: no-repeat;
+    width: 155px;
+    height: 11px;
   }
 
   div.divider {
@@ -155,14 +190,24 @@
     margin-bottom: 2rem;
   }
 
+  .latest-blog {
+    background: linear-gradient(106.84deg, #43C0B9 8.4%, #228CDA 51.17%, #B81DEF 97.66%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32px; 
+    margin-top: 168px;
+    margin-bottom: 60px;
+  }
+
   .more-posts {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
   }
-  .more-posts .item .clickable-btn{
+  .more-posts .item .clickable-btn {
     display: flex;
-
   }
   .more-posts .item {
     /* margin: 0.25rem; */
@@ -196,11 +241,10 @@
     padding: 0rem 2rem;
     margin-top: 24px;
     gap: 2.5rem;
-}
-  .more-posts .item .digest .arrow-icon {
+  }
+  .more-posts .item .digest {
     width: 100%;
-    /* margin-top: 40px; */
-    margin-bottom: 24px;
+    margin-bottom: 25px;
   }
   .more-posts .item .digest .title h3 {
     font-size: 1.2rem;
@@ -214,6 +258,26 @@
   }
 
   @media screen and (max-width: 768px) {
+    .container {
+      padding: 0 16px;
+    }
+    figure {
+      margin-top: 24px;
+    }
+    .subtitle {
+      margin: 16px 0;
+    }
+   .summery {
+    margin-bottom: 24px;
+   }
+
+   .bottom-icon i {
+    align-self: baseline;
+   }
+   .latest-blog {
+    margin-top: 116px;
+    margin-bottom: 12px;
+   }
     .first,
     .more-posts {
       flex-direction: column;

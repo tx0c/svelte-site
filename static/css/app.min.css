@@ -11370,7 +11370,7 @@ body hr {
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     display: inline-flex
 }
 
@@ -11447,14 +11447,14 @@ body hr {
     background-image: url("../img/icon-arrow.svg");
     width: 94px;
     height: 13px;
-    margin: 0 0 6px 8px
+    margin: 0 0 6px 16px
 }
 
 @media(min-width: 768px) {
     #wrapper .btn.arrow i.icon {
         width: 155px;
         height: 21px;
-        margin: 0 0 10px 20px
+        margin: 0 0 10px 16px
     }
 }
 
@@ -11653,7 +11653,7 @@ menu#menu ul li a {
 
 footer#footer {
     background-color: #151515;
-    padding: 40px 0
+    padding: 40px 16px;
 }
 
 @media(min-width: 768px) {
