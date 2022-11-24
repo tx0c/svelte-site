@@ -562,8 +562,8 @@ progress {
 .container-xl,
 .container-xxl {
     width: 100%;
-    padding-right: var(--bs-gutter-x, 0.75rem);
-    padding-left: var(--bs-gutter-x, 0.75rem);
+    /* padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem); */
     margin-right: auto;
     margin-left: auto
 }
@@ -11332,14 +11332,14 @@ body hr {
 
 #wrapper .container {
     max-width: 1080px;
-    padding: 0 16px
+    /* padding: 0 16px */
 }
 
-@media(min-width: 992px) {
+/* @media(min-width: 992px) {
     #wrapper .container {
         padding: 0 12px
     }
-}
+} */
 
 #wrapper .img-fluid {
     max-width: 100%;
@@ -11757,7 +11757,7 @@ footer#footer .list ul li a:hover {
     color: #33a5c9
 }
 
-/* #main.index {
+#main.index {
     padding: 0 0 60px 0
 }
 
@@ -11765,7 +11765,7 @@ footer#footer .list ul li a:hover {
     #main.index {
         padding: 0 0 120px 0
     }
-} */
+}
 
 #main.index section {
     margin: 0 0 120px 0
