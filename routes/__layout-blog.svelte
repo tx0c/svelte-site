@@ -55,11 +55,15 @@
     {/if}
     <h1>{title}</h1>
 
-    <p>Published: {date}</p>
-    <p>
-      Author: {#if authorLink}<a href={authorLink} target="_blank">{author}</a>{:else}{author}{/if}
-    </p>
-
+    <div class="source">
+      <div>{date}</div>
+      <div>・</div>
+      <div>
+        {#if authorLink}<a href={authorLink} target="_blank">{author}</a>{:else}{author}{/if}
+      </div>
+    </div>
+  </div>
+  <div class="content">
     <slot />
   </div>
 </article>
@@ -73,60 +77,86 @@
   :global(nav#nav)::before {
     background: black;
   }
-  article.post::before {
-    display: block;
-    content: "";
-    padding-top: 6rem;
-  }
 
   article.post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     background: white;
     color: black;
-  }
-  article.post div {
-    margin: 0 auto;
-    padding: 1rem 0.5rem;
-    max-width: 67.5rem;
+    padding: 0 16px;
   }
 
-  article.post :global(blockquote) {
-    display: flex;
-    position: relative;
+  article.post .center {
+    margin-top: 128px;
   }
-  article.post :global(blockquote::before) {
-    content: "";
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    left: 0;
-    background-color: var(--theme-ui-colors-accent, var(--colors-accent));
-    width: 2px;
-    border-radius: 999px;
+
+  article.post .center :global(img) {
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  article.post .content {
+    margin-bottom: 40px;
+  }
+  article.post .content :global(img) {
+    max-width: 100%;
+    margin-top: 48px;
+    margin-bottom: 32px;
+    border-radius: 20px;
+  }
+
+  @media (min-width: 768px) {
+
+    article.post .center :global(img) {
+      margin-top: 48px;
+      max-width: 100%;
+    }
+    article.post .content {
+      margin-bottom: 96px;
+    }
+    article.post .content :global(img) {
+      max-width: 100%;
+      margin-top: 48px;
+      margin-bottom: 32px;
+      border-radius: 20px;
+    }
+    article.post .source {
+    display: flex;
+    justify-content: start;
+    gap: 8px;
+    margin-bottom: 48px;
+  }
+  article.post :global(figcaption) {
+    color: rgb(0 0 0 / 40%);
+    text-align: center;
+    margin-top: -32px;
+    margin-bottom: 48px;
+  }
+
+  }
+
+  article.post .source {
+    display: flex;
+    justify-content: start;
+    gap: 8px;
+
   }
 
   article.post :global(figcaption) {
-    margin-top: -1.5rem;
     color: rgb(0 0 0 / 40%);
     text-align: center;
+    margin-top: -32px;
+    margin-bottom: 48px;
+
   }
 
   article.post :global(*) {
-    margin-top: 0.75rem;
-    margin-bottom: 0.75rem;
     max-width: 67.5rem;
-    width: 100%;
-  }
-
-  article.post :global(h1) {
-    padding-top: 2rem;
-  }
-
-  article.post :global(img) {
-    max-width: 100%;
   }
 
   article.post :global(a) {
-    color: rgb(0, 122, 255);
+    color: #1cb0ab;
     text-decoration: underline;
   }
 
@@ -140,17 +170,19 @@
     top: -2px;
   }
 
-  article.post :global(p),
-  article.post :global(ul),
-  article.post :global(h1),
-  article.post :global(h2),
-  article.post :global(h3) {
+  article.post :global(ul) {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
+
+  article.post :global(h1) {
+    margin-top: 40px;
+    margin-bottom: 24px;
+  }
   article.post :global(h2),
   article.post :global(h3) {
-    padding-top: 1.5rem;
+    margin-top: 52px;
+    margin-bottom: 24px;
   }
 
   article.post :global(li) {

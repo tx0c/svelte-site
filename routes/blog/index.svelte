@@ -112,9 +112,10 @@
 
   article.post div {
     margin: 0 auto;
-    padding: 1rem 0.5rem;
     max-width: 67.5rem;
+
   }
+
   article.post div h1 {
     display: none;
   }
@@ -131,6 +132,7 @@
     align-items: center;
     column-gap: 1rem;
   }
+  
   .first > * {
     flex: 1;
   }
