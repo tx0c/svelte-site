@@ -112,6 +112,9 @@
       margin-top: 48px;
       max-width: 100%;
     }
+    article.post .content {
+      margin-bottom: 96px;
+    }
     article.post .content :global(img) {
       max-width: 100%;
       margin-top: 48px;
@@ -137,6 +140,7 @@
     display: flex;
     justify-content: start;
     gap: 8px;
+
   }
 
   article.post :global(figcaption) {
