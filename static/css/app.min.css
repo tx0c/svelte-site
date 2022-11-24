@@ -11653,7 +11653,7 @@ menu#menu ul li a {
 
 footer#footer {
     background-color: #151515;
-    padding: 40px 0
+    padding: 40px 16px;
 }
 
 @media(min-width: 768px) {
@@ -11758,12 +11758,12 @@ footer#footer .list ul li a:hover {
 }
 
 #main.index {
-    padding: 0 0 60px 0
+    /* padding: 0 0 60px 0 */
 }
 
 @media(min-width: 768px) {
     #main.index {
-        padding: 0 0 120px 0
+        /* padding: 0 0 120px 0 */
     }
 }
 
