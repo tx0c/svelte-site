@@ -128,6 +128,7 @@
     color: rgb(0 0 0 / 40%);
     text-align: center;
     margin-top: -32px;
+    margin-bottom: 48px;
   }
 
   }
@@ -142,6 +143,8 @@
     color: rgb(0 0 0 / 40%);
     text-align: center;
     margin-top: -32px;
+    margin-bottom: 48px;
+
   }
 
   article.post :global(*) {
