@@ -563,8 +563,8 @@ progress {
 .container-xl,
 .container-xxl {
     width: 100%;
-    /* padding-right: var(--bs-gutter-x, 0.75rem); */
-    /* padding-left: var(--bs-gutter-x, 0.75rem); */
+    /* padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem); */
     margin-right: auto;
     margin-left: auto
 }
@@ -11336,13 +11336,6 @@ body hr {
     /* padding: 0 16px */
 }
 
-#wrapper .blog-container {
-    max-width: 1520px;
-    padding: 0 16px;
-
-}
-
-
 /* @media(min-width: 992px) {
     #wrapper .container {
         padding: 0 12px
@@ -11455,14 +11448,14 @@ body hr {
     background-image: url("../img/icon-arrow.svg");
     width: 94px;
     height: 13px;
-    margin: 0 0 6px 16px
+    margin: 0 0 6px 8px
 }
 
 @media(min-width: 768px) {
     #wrapper .btn.arrow i.icon {
         width: 155px;
         height: 21px;
-        margin: 0 0 10px 16px
+        margin: 0 0 10px 20px
     }
 }
 
@@ -11766,12 +11759,20 @@ footer#footer .list ul li a:hover {
 }
 
 #main.index {
+<<<<<<< HEAD
     padding: 0 0 60px 0
+=======
+    /* padding: 0 0 60px 0 */
+>>>>>>> main
 }
 
 @media(min-width: 768px) {
     #main.index {
+<<<<<<< HEAD
         padding: 0 0 120px 0
+=======
+        /* padding: 0 0 120px 0 */
+>>>>>>> main
     }
 }
 

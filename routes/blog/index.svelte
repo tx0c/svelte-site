@@ -51,7 +51,7 @@
     <div class="banner">
       <h1>Blog</h1>
       <a href={firstPost.path} class="first">
-        <div class="img-cover" ><img src={firstPost.imgCover} alt=""></div>
+        <figure class="img-cover"><img src={firstPost.imgCover} alt="" /></figure>
         <div class="right">
           <div class="content">
             <h2 class="title">{firstPost.title}</h2>
@@ -102,7 +102,6 @@
 </div>
 
 <style>
-
   article.post::before {
     display: block;
     content: "";
@@ -112,21 +111,20 @@
   article.post div {
     /* margin: 0 auto; */
     /* padding: 1rem 0rem; */
-    max-width: 67.5rem;
+    /* max-width: 67.5rem; */
   }
+
   article.post div h1 {
     display: none;
   }
 
   .img-cover {
-    width: 842px;
-    height: 634px;
+    flex: 1;
   }
 
   img {
     max-width: 100%;
-    object-fit: cover;
-    height: 100%;
+    object-fit: contain;
     border-radius: 1rem;
   }
   .banner {
@@ -148,6 +146,7 @@
 
   .first .right {
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: space-between;
     margin-left: 40px;
@@ -227,34 +226,33 @@
     align-items: flex-start;
     padding: 0rem 2rem;
     margin-top: 24px;
-    gap: 2.5rem;
   }
   .more-posts .item .digest {
     width: 100%;
-    margin-bottom: 25px;
   }
   .more-posts .item .digest .title h3 {
     font-size: 1.2rem;
     color: #f7f7f7;
   }
 
+  .digest .title {
+    margin-bottom: 7px;
+  }
+  .digest .arrow-icon {
+    margin-bottom: 25px;
+  }
   .digest i.icon {
     background-image: url(/img/icon-arrow.svg);
     width: 55px;
     height: 11px;
+    margin-top: 7px;
   }
 
   @media screen and (max-width: 768px) {
 
-    .img-cover {
-      width: 343px;
-      height: 267px;
-    }
-
     img {
-      max-width: 100% ;  
-      height: 100%;
-      object-fit: cover;
+      max-width: 100%;
+      object-fit: contain;
       border-radius: 1rem;
     }
     .container {
@@ -300,7 +298,7 @@
     }
     .more-posts .item .cover img {
       max-width: 8rem;
-      height: 10rem;
+      height: 14.5rem;
     }
   }
 </style>
