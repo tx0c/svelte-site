@@ -555,6 +555,7 @@ progress {
 }
 
 .container,
+.blog-container,
 .container-fluid,
 .container-lg,
 .container-md,
@@ -11370,7 +11371,7 @@ body hr {
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     display: inline-flex
 }
 
@@ -11768,7 +11769,7 @@ footer#footer .list ul li a:hover {
 }
 
 #main.index section {
-    margin: 0 0 120px 0
+    /* margin: 0 0 120px 0 */
 }
 
 #main.index section header h2 {
