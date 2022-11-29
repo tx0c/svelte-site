@@ -217,6 +217,7 @@
     object-fit: cover;
     max-width: 16rem;
     height: 16rem;
+    border-radius: 1rem 0 0 1rem; 
   }
 
   .more-posts .item .digest {
