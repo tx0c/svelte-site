@@ -11759,25 +11759,17 @@ footer#footer .list ul li a:hover {
 }
 
 #main.index {
-<<<<<<< HEAD
-    padding: 0 0 60px 0
-=======
     /* padding: 0 0 60px 0 */
->>>>>>> main
 }
 
 @media(min-width: 768px) {
     #main.index {
-<<<<<<< HEAD
-        padding: 0 0 120px 0
-=======
         /* padding: 0 0 120px 0 */
->>>>>>> main
     }
 }
 
 #main.index section {
-    margin: 0 0 120px 0
+    /* margin: 0 0 120px 0 */
 }
 
 #main.index section header h2 {
