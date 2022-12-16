@@ -779,3 +779,12 @@
     </article>
   </div>
 </section>
+<style >
+section {
+  margin-bottom: 340px;
+}
+
+.our_partners_and_supporters {
+  margin-top: 400px;
+}
+</style>
