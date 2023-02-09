@@ -94,6 +94,7 @@
 
   article.post .center :global(img) {
     max-width: 100%;
+    width: 100%;
     border-radius: 20px;
   }
   article.post .content {
