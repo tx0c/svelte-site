@@ -29,7 +29,7 @@ To put this into perspective, Jack Dorsey’s first tweet, which fetched $2.9 mi
 
 According to the Guardian, sales reached a [12-month low](https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash) in June at $1 billion, although they peaked at $12.6 billion in January. The number of people who hold active NFT wallets have also dropped a whopping 88%, from 119,000 to 14,000, since September 2021.
 
-<div align=center>![A bar graph depicting the amount of NFT sales from Jan 2021 to Jun 2022 - Matters Lab ](https://images.mirror-media.xyz/publication-images/_qwpwCVSjrRbgTqa3VB1j.png?height=558&width=786)
+![A bar graph depicting the amount of NFT sales from Jan 2021 to Jun 2022 - Matters Lab ](https://images.mirror-media.xyz/publication-images/_qwpwCVSjrRbgTqa3VB1j.png?height=558&width=786)
 <figcaption>The decline of NFT sales.</figcaption>
 
 [Image Source: The Guardian](https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash)
@@ -86,7 +86,7 @@ In the traditional Internet or offline world, it’s almost impossible to claim 
 
 In the world of blockchain and NFT, the uniqueness of each version of the digital original bio-item is restored, but at the same time the reproducibility is retained. You can also claim exclusive ownership of digital objects. The word "ownership" itself has a new definition in the NFT world and collecting digital assets becomes more like an "identification" rather than “owning”.
 
-<div align=center>![A scene from “The Little Prince” Japanese movie - Matters Lab](https://images.mirror-media.xyz/publication-images/7u41zKksHU7NMwDgnBOZS.jpg?height=550&width=988)
+![A scene from “The Little Prince” Japanese movie - Matters Lab](https://images.mirror-media.xyz/publication-images/7u41zKksHU7NMwDgnBOZS.jpg?height=550&width=988)
 <figcaption>"The Little Prince" Japanese version of the movie</figcaption>
 
 Because of the emergence of a new ownership relationship between humans and digital content, there’s more room to envision new business models.
@@ -101,21 +101,21 @@ Let’s consider these examples in different industries that illustrate the new 
 
 The indie band “Kings of Leon” released an NFT album containing three token types, one of which provides the owner with a "lifetime front row seat" for the band's future performances.
 
-<div align=center>![Kings of Leon NFT album - Matters Lab](https://images.mirror-media.xyz/publication-images/qOf6UBv7rs6Bx3LWZswJV.png?height=714&width=438)
+![Kings of Leon NFT album - Matters Lab](https://images.mirror-media.xyz/publication-images/qOf6UBv7rs6Bx3LWZswJV.png?height=714&width=438)
 <figcaption>Kings of Leon NFT album</figcaption>
 
 Perhaps the most expensive single piece of NFT sold also stemmed from entertainment purposes. The “Everydays: The First 5,000 Days” by Beeple sold for $69 million at Christie's New York–the first live NFT auction. The digital artwork was a collection of 5,000 digital images that the artist, Mike Winkelmann, artistically known as Beeple, created everyday as part of a project called “Everydays”.
 
 ### 2\. News media
 
-<div align=center>![The webpage of Vault by CNN: Moments that changed us - Matters Lab](https://images.mirror-media.xyz/publication-images/IsRLrcGp_RWmH5HiLMULE.png?height=396&width=806)
+<div align=center>![The webpage of Vault by CNN: Moments that changed us - Matters Lab](https://images.mirror-media.xyz/publication-images/IsRLrcGp_RWmH5HiLMULE.png?height=396&width=806)</div>
 <figcaption> “Moments that changed us” by CNN</figcaption>
 
 The 42-year-old news outlet, CNN, launched [Vault by CNN: Moments That Changed Us in June 2021](https://cnnpressroom.blogs.cnn.com/2021/06/16/cnn-makes-moments-from-history-available-for-purchase-with-nfts/), which will house a selection of digital collectibles from its television archives, and mint them as NFTs using blockchain technology. However, these collections won’t include the records of these important news events disappearing from the eyes of the public.
 
 ### 3\. Technology
 
-<div align=center>![A picture of Tim Berners-Lee in front of a computer displaying www source code - Matters Lab](https://images.mirror-media.xyz/publication-images/N7LHGdenURvPgZ8BHdgyB.png?height=500&width=832)
+<div align=center>![A picture of Tim Berners-Lee in front of a computer displaying www source code - Matters Lab](https://images.mirror-media.xyz/publication-images/N7LHGdenURvPgZ8BHdgyB.png?height=500&width=832)</div>
 <figcaption> Tim Berners-Lee and his www source code</figcaption>
 
 Tim Berners-Lee, the father of the Internet who invented the World Wide Web (www), auctioned 9,555 lines of www original codes written by him between 1990 and 1991 through [Sotheby’s Auction House](https://www.sothebys.com/en/buy/auction/2021/this-changed-everything-source-code-for-www-x-tim-berners-lee-an-nft/source-code-for-the-www) on June 23rd.
@@ -124,7 +124,7 @@ In 7 days, these NFTS sold for more than $5.4 million. Interestingly, he has alw
 
 ### 4\. Social Media
 
-<div align=center>![6 NFT social media avatars called Traveloggers - Matters Lab](https://images.mirror-media.xyz/publication-images/wXGlx8khAtPxZYmZaBPR9.png?height=634&width=824)
+<div align=center>![6 NFT social media avatars called Traveloggers - Matters Lab](https://images.mirror-media.xyz/publication-images/wXGlx8khAtPxZYmZaBPR9.png?height=634&width=824)</div>
 <figcaption>Traveloggers NFT avatars issued by Matters Lab</figcaption>
 
 Perhaps the most well-known form of NFT are [NFT avatars](https://matters-lab.io/blog/what-is-an-nft-avatar), which are digitally-generated images that can be used as profile pictures on social media platforms.
