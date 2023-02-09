@@ -108,14 +108,14 @@ Perhaps the most expensive single piece of NFT sold also stemmed from entertainm
 
 ### 2\. News media
 
-<div align=center>![The webpage of Vault by CNN: Moments that changed us - Matters Lab](https://images.mirror-media.xyz/publication-images/IsRLrcGp_RWmH5HiLMULE.png?height=396&width=806)</div>
+![The webpage of Vault by CNN: Moments that changed us - Matters Lab](https://images.mirror-media.xyz/publication-images/IsRLrcGp_RWmH5HiLMULE.png?height=396&width=806)
 <figcaption> “Moments that changed us” by CNN</figcaption>
 
 The 42-year-old news outlet, CNN, launched [Vault by CNN: Moments That Changed Us in June 2021](https://cnnpressroom.blogs.cnn.com/2021/06/16/cnn-makes-moments-from-history-available-for-purchase-with-nfts/), which will house a selection of digital collectibles from its television archives, and mint them as NFTs using blockchain technology. However, these collections won’t include the records of these important news events disappearing from the eyes of the public.
 
 ### 3\. Technology
 
-<div align=center>![A picture of Tim Berners-Lee in front of a computer displaying www source code - Matters Lab](https://images.mirror-media.xyz/publication-images/N7LHGdenURvPgZ8BHdgyB.png?height=500&width=832)</div>
+![A picture of Tim Berners-Lee in front of a computer displaying www source code - Matters Lab](https://images.mirror-media.xyz/publication-images/N7LHGdenURvPgZ8BHdgyB.png?height=500&width=832)
 <figcaption> Tim Berners-Lee and his www source code</figcaption>
 
 Tim Berners-Lee, the father of the Internet who invented the World Wide Web (www), auctioned 9,555 lines of www original codes written by him between 1990 and 1991 through [Sotheby’s Auction House](https://www.sothebys.com/en/buy/auction/2021/this-changed-everything-source-code-for-www-x-tim-berners-lee-an-nft/source-code-for-the-www) on June 23rd.
@@ -124,7 +124,7 @@ In 7 days, these NFTS sold for more than $5.4 million. Interestingly, he has alw
 
 ### 4\. Social Media
 
-<div align=center>![6 NFT social media avatars called Traveloggers - Matters Lab](https://images.mirror-media.xyz/publication-images/wXGlx8khAtPxZYmZaBPR9.png?height=634&width=824)</div>
+![6 NFT social media avatars called Traveloggers - Matters Lab](https://images.mirror-media.xyz/publication-images/wXGlx8khAtPxZYmZaBPR9.png?height=634&width=824)
 <figcaption>Traveloggers NFT avatars issued by Matters Lab</figcaption>
 
 Perhaps the most well-known form of NFT are [NFT avatars](https://matters-lab.io/blog/what-is-an-nft-avatar), which are digitally-generated images that can be used as profile pictures on social media platforms.
