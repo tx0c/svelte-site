@@ -29,10 +29,10 @@ To put this into perspective, Jack Dorsey’s first tweet, which fetched $2.9 mi
 
 According to the Guardian, sales reached a [12-month low](https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash) in June at $1 billion, although they peaked at $12.6 billion in January. The number of people who hold active NFT wallets have also dropped a whopping 88%, from 119,000 to 14,000, since September 2021.
 
-![A bar graph depicting the amount of NFT sales from Jan 2021 to Jun 2022 - Matters Lab ](https://images.mirror-media.xyz/publication-images/_qwpwCVSjrRbgTqa3VB1j.png?height=558&width=786)
+<div align=center>![A bar graph depicting the amount of NFT sales from Jan 2021 to Jun 2022 - Matters Lab ](https://images.mirror-media.xyz/publication-images/_qwpwCVSjrRbgTqa3VB1j.png?height=558&width=786)
 <figcaption>The decline of NFT sales.</figcaption>
 
-<center>[Image Source: The Guardian](https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash)</center>
+[Image Source: The Guardian](https://www.theguardian.com/technology/2022/jul/02/nft-sales-hit-12-month-low-after-cryptocurrency-crash)
 
 Much of this decline has to do with the “crypto winter”, where the value of cryptocurrency [dropped by 62%](https://www.nerdwallet.com/article/investing/crypto-winter#:~:text=In%20the%20first%20half%20of,known%20as%20%22crypto%20winter.%22), from $2.7 trillion to $1 trillion last month. Now, even the strongest cryptocurrency companies are facing financial difficulties, including bankruptcies.
 
@@ -86,7 +86,7 @@ In the traditional Internet or offline world, it’s almost impossible to claim 
 
 In the world of blockchain and NFT, the uniqueness of each version of the digital original bio-item is restored, but at the same time the reproducibility is retained. You can also claim exclusive ownership of digital objects. The word "ownership" itself has a new definition in the NFT world and collecting digital assets becomes more like an "identification" rather than “owning”.
 
-![A scene from “The Little Prince” Japanese movie - Matters Lab](https://images.mirror-media.xyz/publication-images/7u41zKksHU7NMwDgnBOZS.jpg?height=550&width=988)
+<div align=center>![A scene from “The Little Prince” Japanese movie - Matters Lab](https://images.mirror-media.xyz/publication-images/7u41zKksHU7NMwDgnBOZS.jpg?height=550&width=988)
 <figcaption>"The Little Prince" Japanese version of the movie</figcaption>
 
 Because of the emergence of a new ownership relationship between humans and digital content, there’s more room to envision new business models.
