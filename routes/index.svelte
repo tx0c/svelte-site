@@ -779,12 +779,21 @@
     </article>
   </div>
 </section>
-<style >
-section {
-  margin-bottom: 340px;
-}
 
-.our_partners_and_supporters {
-  margin-top: 400px;
-}
+<style>
+  section {
+    margin-bottom: 340px;
+  }
+
+  @media (max-width: 768px) {
+    section {
+      margin-bottom: 142px;
+
+      padding: 0 16px;
+    }
+  }
+
+  .our_partners_and_supporters {
+    margin-top: 400px;
+  }
 </style>
