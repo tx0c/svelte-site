@@ -51,6 +51,7 @@
 @media (max-width: 768px) {
   nav .follow{
     font-size: 13px !important;
+    padding: 10px 20px !important;
   }
 }
 
