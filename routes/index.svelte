@@ -34,7 +34,7 @@
   />
   <meta property="og:title" content="Powering the Future of Web3" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://matters-lab.io/img/thumb.jpg?v=2" />
+  <meta property="og:image" content="/img/thumb.jpg" />
   <meta property="og:url" content="https://matters-lab.io/" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta
@@ -658,7 +658,7 @@
   <div class="container">
     <div class="content">
       <header class="text-center">
-        <h2 class="d-inline-block">Follow Us</h2>
+        <h2 class="d-inline-block">JOIN US</h2>
       </header>
       <article class="text-center">
         <div class="text">
@@ -779,12 +779,25 @@
     </article>
   </div>
 </section>
-<style >
-section {
-  margin-bottom: 340px;
-}
 
-.our_partners_and_supporters {
-  margin-top: 400px;
-}
+<style>
+  section {
+    margin-bottom: 340px;
+  }
+
+  @media (max-width: 768px) {
+    section {
+      margin-bottom: 142px;
+
+      padding: 0 16px;
+    }
+
+    .intro {
+      margin-top: 64px;
+    }
+  }
+
+  .our_partners_and_supporters {
+    margin-top: 400px;
+  }
 </style>

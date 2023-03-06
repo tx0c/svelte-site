@@ -11518,7 +11518,7 @@ nav#nav {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 40px 16px 16px 16px;
+    padding: 45px 16px 11px 16px;
     z-index: 7
 }
 
@@ -11556,14 +11556,14 @@ nav#nav .logo a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 116px;
-    height: 24px
+    width: 161px;
+    height: 16px
 }
 
 @media(min-width: 768px) {
     nav#nav .logo a {
-        width: 142px;
-        height: 28px
+        width: 242px;
+        height: 24px
     }
 }
 
@@ -11682,14 +11682,14 @@ footer#footer .logo a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 120px;
-    height: 24px
+    width: 161px;
+    height: 16px
 }
 
 @media(min-width: 768px) {
     footer#footer .logo a {
-        width: 142px;
-        height: 28px
+        width: 242px;
+        height: 24px
     }
 }
 

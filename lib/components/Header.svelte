@@ -25,7 +25,7 @@
               target="_blank"><i class="icon" /></a
             >
           </div>
-          <a class="btn outline" href="/#follow_us"><span>Follow Us</span></a>
+          <a class="btn outline follow" href="/#follow_us"><span>JOIN US</span></a>
           <div class="mobile d-lg-none">
             <button class="btn menu" onclick="index.menu(true)"><i class="icon" /></button>
             <button class="btn close" onclick="index.menu(false)"><i class="icon" /></button>
@@ -46,3 +46,13 @@
     <li><a class="d-block" href="/blog" on:click={() => index.menu(false)}>Blog</a></li>
   </ul>
 </menu>
+
+<style>
+@media (max-width: 768px) {
+  nav .follow{
+    font-size: 13px !important;
+    padding: 10px 20px !important;
+  }
+}
+
+</style>

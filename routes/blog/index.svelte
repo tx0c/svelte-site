@@ -31,7 +31,7 @@
   />
   <meta property="og:title" content={title} />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://matters-lab.io/img/thumb.jpg?v=2" />
+  <meta property="og:image" content="/img/thumb.jpg" />
   <meta property="og:url" content="https://matters-lab.io/blog" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta
