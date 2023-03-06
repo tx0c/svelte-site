@@ -11682,14 +11682,14 @@ footer#footer .logo a {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
-    width: 120px;
-    height: 24px
+    width: 161px;
+    height: 16px
 }
 
 @media(min-width: 768px) {
     footer#footer .logo a {
-        width: 142px;
-        height: 28px
+        width: 242px;
+        height: 24px
     }
 }
 
