@@ -658,7 +658,7 @@
   <div class="container">
     <div class="content">
       <header class="text-center">
-        <h2 class="d-inline-block">Follow Us</h2>
+        <h2 class="d-inline-block">JOIN US</h2>
       </header>
       <article class="text-center">
         <div class="text">
@@ -790,6 +790,10 @@
       margin-bottom: 142px;
 
       padding: 0 16px;
+    }
+
+    .intro {
+      margin-top: 64px;
     }
   }
 
