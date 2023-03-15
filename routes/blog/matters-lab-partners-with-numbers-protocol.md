@@ -1,5 +1,5 @@
 ---
-title: "Matters Lab Partners with Numbers Protocol: Extending the creator journey toward traceable digital assets and veracity"
+title: "Matters Lab Partners with Numbers Protocol: Extending Creator Journey Toward Traceable Digital Assets and Veracity"
 date: "Mar 16, 2023"
 author: Matters Lab
 imgCover: >-
