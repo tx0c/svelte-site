@@ -3,7 +3,7 @@ title: "Matters Lab Partners with Numbers Protocol: Extending Creator Journey To
 date: "Mar 16, 2023"
 author: Matters Lab
 imgCover: >-
- https://mirror-media.imgix.net/publication-images/x4-TlLTh7MLrXw5b7GYlg.jpg?height=1080&width=2160&h=1080&w=2160&auto=compress
+ https://mirror-media.imgix.net/publication-images/uN5kzWnqeQJfvfhbqErdp.jpg?height=1080&width=2160&h=1080&w=2160&auto=compress
 summary: >-
   The partnership between Matters Lab and Numbers Protocol demonstrates how technology can be a powerful force in supporting global content creators on their creative journey.
 categories:
