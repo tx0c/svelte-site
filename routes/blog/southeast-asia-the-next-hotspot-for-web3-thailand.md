@@ -21,7 +21,7 @@ keywords:
 ![Blockchain Genesis takes place in Bangkok, Thailand.](https://images.mirror-media.xyz/publication-images/OOJI1NIiqIWaEDkxCRzVE.jpg?height=3024&width=4032)
 <figcaption> Blockchain Genesis is one of the biggest Web3 Events in Southeast Asia.</figcaption>
 
-Author: Yu-Hsuan Chang；
+Author: Yu-Hsuan Chang
 
 Editor: Yueh-Ju Hsu
 
