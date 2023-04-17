@@ -9,11 +9,11 @@
       <div class="navigation">
         <div class="d-flex align-items-center">
           <div class="d-none d-lg-flex">
-            <a href="https://matters.news/" target="_blank">Matters.News</a><a
-              href="https://traveloggers.matters.news/"
+            <a href="https://matters.town/" target="_blank">Matters.Town</a><a
+              href="https://traveloggers.matters.town/"
               target="_blank">Traveloggers</a
             ><a href="https://thespace.game/" target="_blank">The Space</a><a
-              href="https://logbook.matters.news/"
+              href="https://logbook.matters.town/"
               target="_blank">Logbook</a
             ><a class="d-block" href="/blog">Blog</a><a
               class="btn social twitter"
@@ -37,22 +37,21 @@
 </nav>
 <menu id="menu">
   <ul>
-    <li><a class="d-block" href="https://matters.news/" target="_blank">Matters.News</a></li>
+    <li><a class="d-block" href="https://matters.town/" target="_blank">Matters.Town</a></li>
     <li>
-      <a class="d-block" href="https://traveloggers.matters.news/" target="_blank">Traveloggers</a>
+      <a class="d-block" href="https://traveloggers.matters.town/" target="_blank">Traveloggers</a>
     </li>
     <li><a class="d-block" href="https://thespace.game/" target="_blank">The Space</a></li>
-    <li><a class="d-block" href="https://logbook.matters.news/" target="_blank">Logbook</a></li>
+    <li><a class="d-block" href="https://logbook.matters.town/" target="_blank">Logbook</a></li>
     <li><a class="d-block" href="/blog" on:click={() => index.menu(false)}>Blog</a></li>
   </ul>
 </menu>
 
 <style>
-@media (max-width: 768px) {
-  nav .follow{
-    font-size: 13px !important;
-    padding: 10px 20px !important;
+  @media (max-width: 768px) {
+    nav .follow {
+      font-size: 13px !important;
+      padding: 10px 20px !important;
+    }
   }
-}
-
 </style>

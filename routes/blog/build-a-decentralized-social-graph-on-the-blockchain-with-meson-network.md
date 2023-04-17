@@ -19,7 +19,7 @@ The algorithms of web 2 platforms are also rigged. Although their main purpose i
 
 But, web 3 is different. By leveraging blockchain technology and decentralized storage systems, a number of web 3 startups are building out decentralized social graphs that run on independent servers, rather than on a centralized server controlled by a single entity.
 
-In 2018, [Matters Lab](https://matters-lab.io/) built out a [decentralized content and social graph](https://medium.com/@matterslab/how-matters-news-542c437c7d99) on the blockchain that users can control and applications can share. Now, this blockchain infrastructure supports over 100,000 content creators.
+In 2018, [Matters Lab](https://matters-lab.io/) built out a [decentralized content and social graph](https://medium.com/@matterslab/how-matters.town-542c437c7d99) on the blockchain that users can control and applications can share. Now, this blockchain infrastructure supports over 100,000 content creators.
 
 In this article, we share all about what a social graph on blockchain is, and how we partnered with [Meson Network](https://meson.network/), the bandwidth marketplace on web 3, to create a decentralized social graph.
 
@@ -37,25 +37,25 @@ A decentralized social network, on the other hand, runs on independent servers�
 
 On web 3 social networks, the user data is also stored on a decentralized storage system, deterring any commercial organization from gaining access to your personal information.
 
-![Matters.News - the next decentralized content ecosystem on web3.](https://images.mirror-media.xyz/publication-images/_mUa2Wfv0fMkxicieSWV9.png?height=508&width=990)
+![Matters.Town - the next decentralized content ecosystem on web3.](https://images.mirror-media.xyz/publication-images/_mUa2Wfv0fMkxicieSWV9.png?height=508&width=990)
 
-<figcaption>Matters.News - the next decentralized content ecosystem on web3.</figcaption>
+<figcaption>Matters.Town - the next decentralized content ecosystem on web3.</figcaption>
 
-When [Matters Lab](https://matters-lab.io/) built out our hugely-popular self-governed web3 content community with 100,000 content creators, [Matters.News](https://matters.news/), we had to solve the entire process from content creation to distribution.
+When [Matters Lab](https://matters-lab.io/) built out our hugely-popular self-governed web3 content community with 100,000 content creators, [Matters.Town](https://matters.town/), we had to solve the entire process from content creation to distribution.
 
-When it comes to decentralized storage, there are many options available. For example on IPFS, the de facto standard of content addressing, we can pin data with centralized services such as Pinata, Infura, and [Matters.News](https://matters.news/), or with decentralized incentive mechanisms such as Filecoin, Arweave, and Crust.
+When it comes to decentralized storage, there are many options available. For example on IPFS, the de facto standard of content addressing, we can pin data with centralized services such as Pinata, Infura, and [Matters.Town](https://matters.town/), or with decentralized incentive mechanisms such as Filecoin, Arweave, and Crust.
 
 However, when it comes to accessing data, the infrastructure is lacking. If a user wants to retrieve a piece of content using IPFS directly, she has to go through a public IPFS gateway.
 
-Public gateways, some of which we listed in our IPFS modal, are voluntarily provided by the IPFS community, without much guarantee or incentives for their sustainability. A similar problem exists for blockchain as well: when a user requests the content stored on Ethereum by [Traveloggers](https://traveloggers.matters.news/), NFT social media avatars, she has to go through a particular service provider such as Infura, which introduces a centralized point.
+Public gateways, some of which we listed in our IPFS modal, are voluntarily provided by the IPFS community, without much guarantee or incentives for their sustainability. A similar problem exists for blockchain as well: when a user requests the content stored on Ethereum by [Traveloggers](https://traveloggers.matters.town/), NFT social media avatars, she has to go through a particular service provider such as Infura, which introduces a centralized point.
 
 This is the bandwidth sharing problem, and what our partner, [Meson Network](https://meson.network/) sets out to solve. Meson Network allows nodes to contribute their bandwidth while earning tokens, effectively forming a [trustless CDN](https://docs.meson.network/). Applications can then use routing tables maintained by Meson Network to find the nearest and fastest node for their users, improving the user experience while keeping it sustainable.
 
-[Matters Lab](https://matters-lab.io/) is thrilled to announce our collaboration with [Meson Network](https://meson.network/) since 2021, which fills a crucial piece in our infrastructure. As the first step, [Matters.News](https://matters.news/) integrated Meson Network API into the IPFS modal, so when a user retrieves content from IPFS directly, she can use it to redirect to the nearest gateway, speeding up the process of content retrieval. This year in 2022, we have integrated to Meson Networks’s latest version , which allowed users to find nearby nodes faster and easier than before.
+[Matters Lab](https://matters-lab.io/) is thrilled to announce our collaboration with [Meson Network](https://meson.network/) since 2021, which fills a crucial piece in our infrastructure. As the first step, [Matters.Town](https://matters.town/) integrated Meson Network API into the IPFS modal, so when a user retrieves content from IPFS directly, she can use it to redirect to the nearest gateway, speeding up the process of content retrieval. This year in 2022, we have integrated to Meson Networks’s latest version , which allowed users to find nearby nodes faster and easier than before.
 
-![How Matters.news integrated Meson Network API into the IPFS modal.](https://images.mirror-media.xyz/publication-images/ijaeFoK5e-cQdhrbNAo4f.png?height=1074&width=1104)
+![How Matters.Town integrated Meson Network API into the IPFS modal.](https://images.mirror-media.xyz/publication-images/ijaeFoK5e-cQdhrbNAo4f.png?height=1074&width=1104)
 
-<figcaption>How Matters.news integrated Meson Network API into the IPFS modal.</figcaption>
+<figcaption>How Matters.Town integrated Meson Network API into the IPFS modal.</figcaption>
 
 As [Matters Lab](https://matters-lab.io/) further decentralized its social and content graph, more use cases of fast, reliable, and decentralized content retrieval will emerge. We are excited to go down this route together with the Meson Network team, and together build a truly decentralized social and content graph for everyone.
 
@@ -67,7 +67,7 @@ As [Matters Lab](https://matters-lab.io/) further decentralized its social and c
 
 [Matters Lab](https://matters-lab.io/) was established in 2018, with the mission to create a freer and fairer creator ecosystem through the next evolution of the Internet, Web3. Our initiatives include using decentralization tools to protect digital rights, designing a self-governing system and community, and inventing models for a new creator economy.
 
-[Matters.News](https://matterslab.medium.com/how-matters-news-542c437c7d99) is the first entry of [Matters Lab](https://matters-lab.io/). It is the largest open-source decentralized publishing platform in the Web3 world with more than 100,000 content creators.
+[Matters.Town](https://matterslab.medium.com/how-matters.town-542c437c7d99) is the first entry of [Matters Lab](https://matters-lab.io/). It is the largest open-source decentralized publishing platform in the Web3 world with more than 100,000 content creators.
 
 [Traveloggers](https://matterslab.medium.com/traveloggers-is-the-first-nft-social-media-avatar-to-expand-private-ownership-with-collective-e09875f5948d) is the second entrance leading to a news creator economy model. These NFT avatars are the first to expand private ownership with collective creation through an editable logbook feature. You can find the full collection on OpenSea [here](https://opensea.io/collection/traveloggers).
 
@@ -75,4 +75,4 @@ Our third project, [The Space](https://thespace.game/), is the only draw-to-earn
 
 ---
 
-_Follow us on @[MattersLab](https://twitter.com/matterslab) on Twitter for the latest news and insights on NFT and web3, or start creating on our platform, [www.Matters.News](http://www.matters.news)._
+_Follow us on @[MattersLab](https://twitter.com/matterslab) on Twitter for the latest news and insights on NFT and web3, or start creating on our platform, [www.Matters.Town](http://www.matters.town)._

@@ -34,9 +34,9 @@
   }
 
   .error-page a {
-      width: 343px;
-      padding: 12px 16px;
-    }
+    width: 343px;
+    padding: 12px 16px;
+  }
 
   @media (min-width: 768px) {
     .error-page img {

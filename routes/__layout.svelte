@@ -32,9 +32,9 @@
     margin-bottom: 120px;
   }
 
-  @media(max-width: 768px) {
+  @media (max-width: 768px) {
     main {
-    margin-bottom: 60px;}
+      margin-bottom: 60px;
+    }
   }
-
 </style>

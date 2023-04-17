@@ -66,7 +66,7 @@ Chief Technology Officer of Matters, [Guo Liu](https://www.linkedin.com/in/guoli
 
 <Tweet id="1535711822874963968"/>
 
-Regarding the creator economy, NFTs are containers of ownership, and most projects are experimenting with what they can stuff into the container. Projects like [Traveloggers](https://traveloggers.matters.news/) and [The Space](https://thespace.game/) are important because they experiment with the container itself.
+Regarding the creator economy, NFTs are containers of ownership, and most projects are experimenting with what they can stuff into the container. Projects like [Traveloggers](https://traveloggers.matters.town/) and [The Space](https://thespace.game/) are important because they experiment with the container itself.
 
 <Tweet id="1535169699310252033"/>
 
@@ -80,7 +80,7 @@ Consensus 2022 also managed to concentrate great energy offline. It gave us a ch
 
 Finally, Consensus by CoinDesk is a fantastic place where all Web3 ideas are shared and exchanged. We dream big that Web3 Matters.
 
-_Interested in NFTs? Find our inaugural NFT collection, [Traveloggers](https://traveloggers.matters.news/), on OpenSea [here](https://opensea.io/collection/traveloggers)._
+_Interested in NFTs? Find our inaugural NFT collection, [Traveloggers](https://traveloggers.matters.town/), on OpenSea [here](https://opensea.io/collection/traveloggers)._
 
 ---
 

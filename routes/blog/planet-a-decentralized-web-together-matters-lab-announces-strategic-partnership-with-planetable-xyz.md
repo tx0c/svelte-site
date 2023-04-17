@@ -21,13 +21,13 @@ keywords:
 
 [Planet](https://planetable.xyz) is an IPFS-based desktop application that enables peer-to-peer content distribution through IPNS and ENS, fully decentralized and server-independent. In June 2022, with [Planet](https://planetable.xyz)’s outstanding developer team and focused goal, they successfully released the first version. [Planet](https://planetable.xyz) leverages existing HTML, RSS, JSON feeds, and other common standards to make this path possible.
 
-In [Planet](https://planetable.xyz), each article is stored as an HTML folder on IPFS, allowing users to upload and download files in any format. These approaches are identical to [Matters.News](https://matters.news) current storage scheme. In both [Planet](https://planetable.xyz) and [Matters](https://matters-lab.io), each article is a separate front-end stored in IPFS.
+In [Planet](https://planetable.xyz), each article is stored as an HTML folder on IPFS, allowing users to upload and download files in any format. These approaches are identical to [Matters.Town](https://matters.town) current storage scheme. In both [Planet](https://planetable.xyz) and [Matters](https://matters-lab.io), each article is a separate front-end stored in IPFS.
 
-Furthermore, [Matters Lab](https://matters-lab.io) has been exploring how to store users' personal home pages directly in IPFS as static web pages, enabling users to fully customize their own home pages and use them independently of [Matters.News](https://matters.news). [Planet](https://planetable.xyz) provides an excellent solution that allows users to publish their personal homepage under ENS and supports custom templates, which made it an excellent Web3 personal website publisher.
+Furthermore, [Matters Lab](https://matters-lab.io) has been exploring how to store users' personal home pages directly in IPFS as static web pages, enabling users to fully customize their own home pages and use them independently of [Matters.Town](https://matters.town). [Planet](https://planetable.xyz) provides an excellent solution that allows users to publish their personal homepage under ENS and supports custom templates, which made it an excellent Web3 personal website publisher.
 
-In the initial phase, once the author publishes through [Matters.News](https://matters.news), readers can subscribe to content in a completely decentralized manner via [Planet](https://planetable.xyz), as well as through the IPFS public gateways using other readers, while [Matters.News](https://matters.news) creators will have a simple personal page and content feed on IPNS that can be used with ENS.
+In the initial phase, once the author publishes through [Matters.Town](https://matters.town), readers can subscribe to content in a completely decentralized manner via [Planet](https://planetable.xyz), as well as through the IPFS public gateways using other readers, while [Matters.Town](https://matters.town) creators will have a simple personal page and content feed on IPNS that can be used with ENS.
 
-In the second phase, readers will be able to read, like and comment on any work posted to IPFS on Matters, whether published via Planet or manually. [Matters.News](https://matters.news) will be the community and amplifier that curates and discovers quality content.
+In the second phase, readers will be able to read, like and comment on any work posted to IPFS on Matters, whether published via Planet or manually. [Matters.Town](https://matters.town) will be the community and amplifier that curates and discovers quality content.
 
 As a final step, users could freely switch between Planet and Matters. This is true interoperability, a new dynamic that Web3 has promised but has not yet delivered.
 
@@ -35,7 +35,7 @@ This strategic partnership with Planet is only the beginning, [Matters Lab](http
 
 ### About Matters Lab
 
-[Matters Lab](https://matters-lab.io) was established in 2018, with the mission to create a freer and fairer creator ecosystem through the next evolution of the Internet, Web3. Our initiatives include using decentralization tools to protect digital rights, designing a self-governing system and community, and inventing models for a new creator economy. [Matters.News](https://matterslab.medium.com/how-matters-news-542c437c7d99) is the first entry of [Matters Lab](https://matters-lab.io/). It is the largest open-source decentralized publishing platform in the Web3 world with more than 100,000 content creators.
+[Matters Lab](https://matters-lab.io) was established in 2018, with the mission to create a freer and fairer creator ecosystem through the next evolution of the Internet, Web3. Our initiatives include using decentralization tools to protect digital rights, designing a self-governing system and community, and inventing models for a new creator economy. [Matters.Town](https://matterslab.medium.com/how-matters.town-542c437c7d99) is the first entry of [Matters Lab](https://matters-lab.io/). It is the largest open-source decentralized publishing platform in the Web3 world with more than 100,000 content creators.
 
 ### About Planet
 
@@ -43,4 +43,4 @@ This strategic partnership with Planet is only the beginning, [Matters Lab](http
 
 ---
 
-_Follow us on @[Mattersw3b](https://twitter.com/mattersw3b) and [@planetable.eth](https://twitter.com/PlanetableXYZ) on Twitter for the latest news and insights on dWeb and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news)._
+_Follow us on @[Mattersw3b](https://twitter.com/mattersw3b) and [@planetable.eth](https://twitter.com/PlanetableXYZ) on Twitter for the latest news and insights on dWeb and creator economy, or start creating on our platform, [www.Matters.Town](http://www.matters.town)._

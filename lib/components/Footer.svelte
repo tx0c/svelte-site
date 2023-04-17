@@ -46,12 +46,11 @@
         </div>
         <div class="list">
           <ul>
-            <li><a href="https://matters.news/" target="_blank">Matters.News</a></li>
+            <li><a href="https://matters.town/" target="_blank">Matters.Town</a></li>
             <li><a href="https://thespace.game/" target="_blank">The Space</a></li>
-            <li><a href="https://logbook.matters.news/" target="_blank">Logbook</a></li>
+            <li><a href="https://logbook.matters.town/" target="_blank">Logbook</a></li>
             <li>
-              <a href="https://mattersonsite-en.mystrikingly.com/" target="_blank">Creator Grants</a
-              >
+              <a href={LINKS.frontlineFellowshipSite} target="_blank">Frontline Fellowship</a>
             </li>
           </ul>
         </div>

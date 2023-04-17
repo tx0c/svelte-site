@@ -20,7 +20,7 @@ keywords:
 
 NFTs, which stand for non-fungible tokens, are unique and non-interchangeable digital assets that have exploded into a billion-dollar market in 2021, becoming [high art collectibles](https://medium.com/sylo-io/nfts-in-2021-35c426a9c251).
 
-But can an NFT go beyond a piece of collectible art into a collaborative work? That’s what Matters Lab, the creator of the hugely popular decentralized publishing web3 platform, [Matters.news](https://matters.news/about), sought to find out with the NFT avatar project, [Traveloggers](https://traveloggers.matters.news/).
+But can an NFT go beyond a piece of collectible art into a collaborative work? That’s what Matters Lab, the creator of the hugely popular decentralized publishing web3 platform, [Matters.Town](https://matters.town/about), sought to find out with the NFT avatar project, [Traveloggers](https://traveloggers.matters.town/).
 
 In this article, we explain what NFT avatars are, and how you can co-create one yourself, together with the previous owners of the avatar on Traveloggers.
 
@@ -42,7 +42,7 @@ Due to these sky-high prices, most crypto critics speculate that the NFT avatar 
 
 As unique as NFT avatars are, most of those available on NFT marketplaces right now are purely for private ownership purposes. As an innovative web 3 social media ecosystem, we wanted to see if we can take a step further.
 
-What if you could not only own your NFT, but also continue co-creating with others inside of it? That’s what our NFT avatar collections, [Traveloggers](https://traveloggers.matters.news/), offer.
+What if you could not only own your NFT, but also continue co-creating with others inside of it? That’s what our NFT avatar collections, [Traveloggers](https://traveloggers.matters.town/), offer.
 
 ## How to co-create an NFT Avatar
 
@@ -50,7 +50,7 @@ What if you could not only own your NFT, but also continue co-creating with othe
 
 <figcaption>Travelogger’s logbook museum.</figcaption>
 
-On November 2nd 2021, [Matters Lab](https://matters-lab.io/) launched the first and only NFT social media avatar artwork — [Traveloggers](https://traveloggers.matters.news/) — that will expand private ownership with collective creation by allowing each successive owner of the NFT to record a message.
+On November 2nd 2021, [Matters Lab](https://matters-lab.io/) launched the first and only NFT social media avatar artwork — [Traveloggers](https://traveloggers.matters.town/) — that will expand private ownership with collective creation by allowing each successive owner of the NFT to record a message.
 
 With every successive trade of the NFT, the new owner of the avatar not only owns the artwork, but also the collective messages left on the logbook from past owners. The message can be text, a multimedia webpage, or anything in between.
 
@@ -60,11 +60,11 @@ But how does this work?
 
 When you buy a Travelogger on a NFT market, you’ll be able to locate the previous owners’ logbook content. This means that you will not only own the rights of the artwork but also the collective messages with every successful trade of the NFT, as well as be able to leave a new message.
 
-You can also use [Traveloggers](https://traveloggers.matters.news/) on your social media profiles.
+You can also use [Traveloggers](https://traveloggers.matters.town/) on your social media profiles.
 
-“We love the idea of developing NFTs because its application truly empowerscreators by offering more autonomy for earnings and content rights, which has proven to be a wildly successful idea to grow Matters.news into a decentralized autonomous organization of 80,000 content creators,” says Guo Liu, co-founder and engineer behind Matters Lab. “What is also exciting is the unpredictability of a decentralized autonomous organization. We don’t know what our community will do with this unique form of collaboration, but it won’t be boring.”
+“We love the idea of developing NFTs because its application truly empowerscreators by offering more autonomy for earnings and content rights, which has proven to be a wildly successful idea to grow Matters.Town into a decentralized autonomous organization of 80,000 content creators,” says Guo Liu, co-founder and engineer behind Matters Lab. “What is also exciting is the unpredictability of a decentralized autonomous organization. We don’t know what our community will do with this unique form of collaboration, but it won’t be boring.”
 
-To thank Matters Lab's users for their support, we airdropped 300 [Traveloggers](https://traveloggers.matters.news/) to those who have connected their Ethereum wallets. The airdrop took place in batches based on the activity level of the users.
+To thank Matters Lab's users for their support, we airdropped 300 [Traveloggers](https://traveloggers.matters.town/) to those who have connected their Ethereum wallets. The airdrop took place in batches based on the activity level of the users.
 
 Traveloggers is also available for sale to the general public on [OpenSea](https://opensea.io/collection/traveloggers).
 
@@ -80,23 +80,23 @@ We have created six basic characters for voyagers with character designs based o
 
 Far away in the galaxy, a revolution led to a journey away from home. The Matterverse was born.
 
-[Traveloggers](https://traveloggers.matters.news/) is the 1500 NFT avatars issued by Matters to mark the identity of a voyager to Matterverse. Owners of these avatars will have access to the most revolutionary experiments in Matterverse.
+[Traveloggers](https://traveloggers.matters.town/) is the 1500 NFT avatars issued by Matters to mark the identity of a voyager to Matterverse. Owners of these avatars will have access to the most revolutionary experiments in Matterverse.
 
 Matterverse was born from the co-creation of the Matters community. Since its founding in 2018, Matters has grown to more than 80,000 writers and is the largest creator community in the Web3 world.
 
-In October 2021, over 100 members of the Matters community put their creative juices together by co-creating a serial origin story for Matterverse: what challenges did the galactic universe face? Why did Matterverse come into being? How can these people overcome their challenges and create a new paradigm? Where are we heading in the Matterverse? [Read the full story on our Traveloggers website.](https://traveloggers.matters.news/)
+In October 2021, over 100 members of the Matters community put their creative juices together by co-creating a serial origin story for Matterverse: what challenges did the galactic universe face? Why did Matterverse come into being? How can these people overcome their challenges and create a new paradigm? Where are we heading in the Matterverse? [Read the full story on our Traveloggers website.](https://traveloggers.matters.town/)
 
 ![Each avatar comes with a unique logbook, on which only the avatar’s owner can record their journey.](https://images.mirror-media.xyz/publication-images/A05JFgyM3rxzpArX-ScX7.png?height=630&width=1120)
 
 The first experiment that traveloggers can participate in is to record their journey on NFT and pass the [logbook](https://matterslab.medium.com/logbook-2-0-write-co-create-transfer-your-works-on-the-blockchain-ec9e6eb3d5ef) to the next traveloggers.
 
-Each avatar comes with a unique logbook, on which only the avatar’s owner can record their journey. The owner of [Traveloggers](https://traveloggers.matters.news/) can log in to the wallet on this page and complete their logbook. When your avatar is passed on to the next owner, the next owner can unlock your log content.
+Each avatar comes with a unique logbook, on which only the avatar’s owner can record their journey. The owner of [Traveloggers](https://traveloggers.matters.town/) can log in to the wallet on this page and complete their logbook. When your avatar is passed on to the next owner, the next owner can unlock your log content.
 
 ## What do owners of Traveloggers enjoy?
 
-The voyage log is part of the identity of [Traveloggers](https://traveloggers.matters.news/), as well as the key to the collective memory of the Traveloggers’ owners.
+The voyage log is part of the identity of [Traveloggers](https://traveloggers.matters.town/), as well as the key to the collective memory of the Traveloggers’ owners.
 
-The inhabitants of Matterverse believe that Web3 is not only about the protection of digital assets and the rights of personal data, but also a revolution in the public governance of the Internet. Owners of [Traveloggers](https://traveloggers.matters.news/) have full rights to utilize Matters’ community, and can also enjoy:
+The inhabitants of Matterverse believe that Web3 is not only about the protection of digital assets and the rights of personal data, but also a revolution in the public governance of the Internet. Owners of [Traveloggers](https://traveloggers.matters.town/) have full rights to utilize Matters’ community, and can also enjoy:
 
 - **Full Copyrights and Logbook Co-creation:** Owners of Traveloggers not only have all copyrights of the NFT avatar, but also the collective memory of the logbook co-creation.
 
@@ -108,15 +108,15 @@ The inhabitants of Matterverse believe that Web3 is not only about the protectio
 
 ## More experimental NFT avatar projects
 
-[Matters.News](https://matters.news) is by far the largest blockchain (IPFS) content publishing platform powered by Web3 technology and the first entry point built by [Matters Lab](https://matters-lab.io/). With 6 million page views from the Chinese-language world, Matters aims to empower content creators by offering a decentralized trading platform where they have complete control and autonomy over their earnings and ownership rights.
+[Matters.Town](https://matters.town) is by far the largest blockchain (IPFS) content publishing platform powered by Web3 technology and the first entry point built by [Matters Lab](https://matters-lab.io/). With 6 million page views from the Chinese-language world, Matters aims to empower content creators by offering a decentralized trading platform where they have complete control and autonomy over their earnings and ownership rights.
 
-Other exciting NFT applications are in the pipeline, including NFT content that can be crowdfunded, tokenizing topic tags on Matters.news, and [The Space](https://thespace.game/) Project, which applies blockchain to radical economic models like the Harberger Tax and Universal Basic Income (UBI) to solve the dilemma between public and private ownership.
+Other exciting NFT applications are in the pipeline, including NFT content that can be crowdfunded, tokenizing topic tags on Matters.Town, and [The Space](https://thespace.game/) Project, which applies blockchain to radical economic models like the Harberger Tax and Universal Basic Income (UBI) to solve the dilemma between public and private ownership.
 
 The Harberger Tax is a clever system to optimize the distribution of public resources with the power of the market to increase the general welfare of society. Although widely discussed and admired, it has so far no real implementation with real users.
 
 Our [The Space](https://thespace.game/) Project is the first large-scale experiment of the Harberger Tax. Combined with the idea of the Universal Basic Income, it transforms the community into a Decentralized Autonomous Organization (DAO) with minimal rules. Follow us on [Twitter](https://twitter.com/thespace2022) for more.
 
-With [Traveloggers](https://traveloggers.matters.news/) and [The Space](https://thespace.game/), Matters Lab is creating entrance points into Matterverse, our Web3 universe, with the goal to usher in a new era of the Internet with a freer and fairer digital economy for everyday content creators and collectors.
+With [Traveloggers](https://traveloggers.matters.town/) and [The Space](https://thespace.game/), Matters Lab is creating entrance points into Matterverse, our Web3 universe, with the goal to usher in a new era of the Internet with a freer and fairer digital economy for everyday content creators and collectors.
 
 ---
 

@@ -19,6 +19,7 @@ keywords:
 ---
 
 ![Blockchain Genesis takes place in Bangkok, Thailand.](https://images.mirror-media.xyz/publication-images/OOJI1NIiqIWaEDkxCRzVE.jpg?height=3024&width=4032)
+
 <figcaption> Blockchain Genesis is one of the biggest Web3 Events in Southeast Asia.</figcaption>
 
 Author: Yu-Hsuan Chang
@@ -40,13 +41,14 @@ Southeast Asia is an interesting choice for those who want to develop in the cry
 Yu-Hsuan Chang, the Business Manager of Matters Lab attended a Bitcoin meetup in Chiang Mai, where he met a diverse group of people, including a pilot preparing to work in Dubai, a professional trader in Switzerland, and an NFT trader who had just escaped from his home country. One of the core organizers of China’s Dali Web3 Summer Fest [Hydao](https://twitter.com/DJWZ) radio also set up a co-working space in Chiang Mai, gathering numerous Web3 developers and builders. In their [Digital Nomad Report from the Indochinese Peninsula](https://www.notion.so/Is-Southeast-Asia-the-Next-Hotspot-for-Web3-Exploring-the-Feasibility-of-Web3-in-Thailand-with-its--cf5f529010f942f0801b51ca5b767bf5), Southeast Asia was voted as the most popular region among digital nomads with 34% of the votes, followed by Central America with 16%, and South America with 13%.
 
 ![Blockchain Genesis with Speakers on the stage](https://images.mirror-media.xyz/publication-images/ECmAKJ1aoNzBPlbgzFO0S.jpg?height=3024&width=4032)
+
 <figcaption> The theme of this years' Blockchain Genesis is ‘Road to Web 3’, which covers from cryptocurrency, DeFi, NFTs, GameFi and Metaverse.</figcaption>
 
 ## What is Blockchain Genesis?
 
 In 26-27 November, 2022, Matters Lab attended the 5th [Blockchain Thailand Genesis](https://twitter.com/blockchain_thai?lang=en), one of the largest crypto events in Thailand hosted by Cryptomind. Matters Lab also participated [the official meetup side event](https://twitter.com/cryptomeetupth/status/1595002481154863108?s=46&t=8RjOZR66eHmxtE8K0gDBdw).
 
-With this year's theme being 'Road to Web 3'. Matters Lab's Business Development Manager attended the event and gained valuable insights into Thailand's Web3 ecosystem. 
+With this year's theme being 'Road to Web 3'. Matters Lab's Business Development Manager attended the event and gained valuable insights into Thailand's Web3 ecosystem.
 
 With the theme of ‘Road to Web 3’, which covers from cryptocurrency, DeFi, NFTs, GameFi and Metaverse. Important [speakers](https://www.blockchain-th.com/speakers/) include Suppakrit Boonsat of Thai Digital Asset Association Founder; Kavin Phongpandecha, Co-Founder of Bitazza; Jarindr Thitadilaka, Founder of GuildFi; and Arpit Sharma, vice president of Polygon.
 
@@ -73,6 +75,7 @@ The third major player is [Kasikornbank](https://www.kasikornbank.com/en/persona
 Besides these big cooperatives, Matters Lab also met many local projects and built different levels of partnership with them. For example, [earthdefire](https://www.facebook.com/EarthDeFIRE), a popular content creator in Thailand, Alpha venture DAO, a DAO based VC and Block Mountain, a Chiang Mai based crypto event organizer. NFT Thailand, one of the biggest NFT communities in Thailand.
 
 ![demo day event in Thailand](https://images.mirror-media.xyz/publication-images/NR3r-m-b_3hxcIm9_5I6V.jpg?height=825&width=1100)
+
 <figcaption>Matters Lab attended Demo Day Event in Thailand. There are lots of big cooperatives and banks as major players in Web3 industry.</figcaption>
 
 During Blockchain Genesis, Matters Lab attended a [demo day event](https://medium.com/@ACCapital1/genesis-demo-day-2022-thailand-successfully-b4c6dc33a1ee) organized by AC Capital. A number of international teams showcase their projects, including SocialFi projects like NEXTID and Phaver.
@@ -94,7 +97,7 @@ Many local projects choose to launch on this chain due to the availability of re
 Thailand's Blockchain Genesis event is just one example of the growing significance of Web3 in Southeast Asia, attracting international and local participants.
 
 In conclusion, the Web3 industry in Southeast Asia is still in the early stages of development, but it has the potential to become a major player on the global stage. The focus on local markets has created a unique and thriving local ecosystem, but there are concerns that this may lead to isolation from the international Web3 community. As the industry continues to grow, it will be important for developers and industry leaders in Southeast Asia to find a balance between local and global perspectives.
- 
+
 ---
 
-_Follow [here for our newsletter](https://matters-lab.io/#follow_us) and @[Mattersw3b](https://twitter.com/Mattersw3b) on Twitter for the latest news and insights on decentralized technology and web3, or start creating on our platform, [www.Matters.News](http://www.matters.news/)._
+_Follow [here for our newsletter](https://matters-lab.io/#follow_us) and @[Mattersw3b](https://twitter.com/Mattersw3b) on Twitter for the latest news and insights on decentralized technology and web3, or start creating on our platform, [www.Matters.Town](http://www.matters.town/)._

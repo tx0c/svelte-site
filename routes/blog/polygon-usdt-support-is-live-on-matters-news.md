@@ -1,5 +1,5 @@
 ---
-title: "Polygon-USDT Support is Now Live on Matters.News"
+title: "Polygon-USDT Support is Now Live on Matters.Town"
 date: "Oct 25, 2022"
 author: Matters Lab
 imgCover: >-
@@ -9,14 +9,14 @@ summary: >-
 categories:
   - Web3
 keywords:
-  - Matters.News
+  - Matters.Town
   - Donation
   - Tether (USDT)
-  - Polygon 
+  - Polygon
   - Creator Economy
 ---
 
-![Matters.News now support Polygon-USDT as one of the cryptocurrencies payment methods.](https://mirror-media.imgix.net/publication-images/2PavWqvCQLIYHl4uhFf9n.jpeg?height=2501&width=5001&h=2501&w=5001&auto=compress)
+![Matters.Town now support Polygon-USDT as one of the cryptocurrencies payment methods.](https://mirror-media.imgix.net/publication-images/2PavWqvCQLIYHl4uhFf9n.jpeg?height=2501&width=5001&h=2501&w=5001&auto=compress)
 
 <figcaption> Matters Lab is delighted to achieve the milestone of launching Tether (USDT) deployed on Polygon as one of the cryptocurrency Support methods.</figcaption>
 
@@ -24,9 +24,9 @@ keywords:
 
 By integrating with Polygon and Tether (USDT), Matter Lab achieved an important milestone in on-chain content discovery and evaluation. We believe that the evaluation and distribution of content should be determined by each community. Supporting content through Matters smart contract is not only an appreciation of the value provided but also an on-chain discovery mechanism supported by various clients and services. The future community dynamic and economic model of Matters Lab will also base on it.
 
-[Matters.News](https://matters.news), the largest open-source decentralized publishing platform in the Web3 world, also the first entry of[ Matters Lab](https://matters-lab.io/), has supported donation with fiat currency HKD and cryptocurrency [LikeCoin](https://about.like.co/). Since Matters.News was introduced in 2018, over one hundred thousand equivalent to USD of donation has been circulated on the platform. Matters creator ecosystem reinforces discoverability of contents with Support and donation functions. We turn creativity into monetary reward, forming a strong back community for creators, therefore connecting valuable content to the audiences.
+[Matters.Town](https://matters.town), the largest open-source decentralized publishing platform in the Web3 world, also the first entry of[ Matters Lab](https://matters-lab.io/), has supported donation with fiat currency HKD and cryptocurrency [LikeCoin](https://about.like.co/). Since Matters.Town was introduced in 2018, over one hundred thousand equivalent to USD of donation has been circulated on the platform. Matters creator ecosystem reinforces discoverability of contents with Support and donation functions. We turn creativity into monetary reward, forming a strong back community for creators, therefore connecting valuable content to the audiences.
 
-In January 2022, Matters.News opens ETH wallets registration, login and binding with [MetaMask](https://metamask.io/) and [WalletConnect](https://walletconnect.com/). On top of that, Matters.News now launches USDT payments, allowing users to directly transfer USDT on Polygon network to the wallets of the creators they appreciate. As long as both the supporter and rewarded author bind their account to ETH wallet, they will be able to pay with USDT Support through the Matters.News.
+In January 2022, Matters.Town opens ETH wallets registration, login and binding with [MetaMask](https://metamask.io/) and [WalletConnect](https://walletconnect.com/). On top of that, Matters.Town now launches USDT payments, allowing users to directly transfer USDT on Polygon network to the wallets of the creators they appreciate. As long as both the supporter and rewarded author bind their account to ETH wallet, they will be able to pay with USDT Support through the Matters.Town.
 
 Tether (USDT) is currently the largest stablecoin, and will be the first stablecoin Matters Lab support in our ecosystem. We look forward to providing Matters users with a more convenient and liquid Support solution by achieving the milestone.
 
@@ -34,7 +34,7 @@ Matters Lab will continue to collaborate with efficient application in the Web3 
 
 ### About Matters Lab
 
-[Matters Lab](https://matters-lab.io/) was established in 2018, with the mission to create a freer and fairer creator ecosystem through the next evolution of the Internet, Web3. Our initiatives include using decentralization tools to protect digital rights, designing a self-governing system and community, and inventing models for a new creator economy. [Matters.News](https://matterslab.medium.com/how-matters-news-542c437c7d99) is the first entry of [Matters Lab](https://matters-lab.io/). It is the largest open-source decentralized publishing platform in the Web3 world with more than 100,000 content creators.
+[Matters Lab](https://matters-lab.io/) was established in 2018, with the mission to create a freer and fairer creator ecosystem through the next evolution of the Internet, Web3. Our initiatives include using decentralization tools to protect digital rights, designing a self-governing system and community, and inventing models for a new creator economy. [Matters.Town](https://matterslab.medium.com/how-matters.town-542c437c7d99) is the first entry of [Matters Lab](https://matters-lab.io/). It is the largest open-source decentralized publishing platform in the Web3 world with more than 100,000 content creators.
 
 ### About Polygon
 
@@ -42,4 +42,4 @@ Matters Lab will continue to collaborate with efficient application in the Web3 
 
 ---
 
-_Follow us on [ @Mattersw3b](https://twitter.com/mattersw3b), [ @0xPolygon](https://twitter.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[ , @polygonstudios](https://twitter.com/polygonstudios) and [@Tether_to](https://twitter.com/Tether_to) on Twitter for the latest news and insights on Web3 and creator economy, or start creating on our platform, [www.Matters.News](http://www.matters.news).* _
+_Follow us on [ @Mattersw3b](https://twitter.com/mattersw3b), [ @0xPolygon](https://twitter.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[ , @polygonstudios](https://twitter.com/polygonstudios) and [@Tether_to](https://twitter.com/Tether_to) on Twitter for the latest news and insights on Web3 and creator economy, or start creating on our platform, [www.Matters.Town](http://www.matters.town).\* _

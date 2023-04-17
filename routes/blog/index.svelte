@@ -217,7 +217,7 @@
     object-fit: cover;
     max-width: 16rem;
     height: 16rem;
-    border-radius: 1rem 0 0 1rem; 
+    border-radius: 1rem 0 0 1rem;
   }
 
   .more-posts .item .digest {
@@ -250,7 +250,6 @@
   }
 
   @media screen and (max-width: 768px) {
-
     img {
       max-width: 100%;
       object-fit: contain;

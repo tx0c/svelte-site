@@ -147,9 +147,9 @@
       </h2>
       <div class="buttons align-self-end align-self-md-center">
         <div class="d-flex flex-column">
-          <a class="btn arrow" href="mailto:hi@matters.news" target="_blank"
+          <a class="btn arrow" href="mailto:hi@matters.town" target="_blank"
             ><span>Contact Us</span><i class="icon" /></a
-          ><a class="btn arrow" href="mailto:hi@matters.news" target="_blank"
+          ><a class="btn arrow" href="mailto:hi@matters.town" target="_blank"
             ><span>Contact Us</span><i class="icon" /></a
           >
         </div>
@@ -218,11 +218,11 @@
       <div class="matters_news">
         <div class="row">
           <div class="col-12 col-md-6">
-            <figure class="img"><img class="img-fluid" src="img/ps-matters_news.png" /></figure>
+            <figure class="img"><img class="img-fluid" src="img/ps-matters_town.png" /></figure>
           </div>
           <div class="col-12 col-md-6">
             <div class="title">
-              <h3>Matters.News</h3>
+              <h3>Matters.Town</h3>
             </div>
             <div class="text">
               <p>
@@ -232,7 +232,7 @@
                 >
               </p>
               <p>
-                Matters.News is the community space where most users first enter Matterverse,
+                Matters.Town is the community space where most users first enter Matterverse,
                 providing an interface as familiar as Web2 applications but as powerful as Web3
                 Dapp.
               </p>
@@ -242,12 +242,12 @@
                 distributed file system.
               </p>
               <p>
-                Today, Matters.News is growing with more than 100,000 creators and 6 million monthly
+                Today, Matters.Town is growing with more than 100,000 creators and 6 million monthly
                 page views committed to user experience, quality content, and free speech.
               </p>
             </div>
             <div class="buttons text-end">
-              <a class="btn outline" href="https://matters.news/" target="_blank"
+              <a class="btn outline" href="https://matters.town/" target="_blank"
                 ><span>LEARN MORE</span></a
               >
             </div>
@@ -292,7 +292,7 @@
             </div>
             <div class="text">
               <p>
-                <a href="https://traveloggers.matters.news/" target="_blank">Traveloggers</a> is the
+                <a href="https://traveloggers.matters.town/" target="_blank">Traveloggers</a> is the
                 first dynamic NFTs used as PFP and a collaboration protocol Logbook to write,
                 transfer, and co-create on the Blockchain. Owners of 1,500 Traveloggers will have
                 access to the most revolutionary experiments to explore the creator economy model in
@@ -303,7 +303,7 @@
               </p>
             </div>
             <div class="buttons text-end">
-              <a class="btn outline" href="https://logbook.matters.news/" target="_blank"
+              <a class="btn outline" href="https://logbook.matters.town/" target="_blank"
                 ><span>LEARN MORE</span></a
               >
             </div>
@@ -313,26 +313,23 @@
       <div class="on_site">
         <div class="row">
           <div class="col-12 col-md-6">
-            <figure class="img"><img class="img-fluid" src="img/ps-on_site.png" /></figure>
+            <figure class="img"><img class="img-fluid" src="img/ps-fellowship.png" /></figure>
           </div>
           <div class="col-12 col-md-6">
             <div class="title">
-              <h3>Creator Grants</h3>
+              <h3>Frontline Fellowship</h3>
             </div>
             <div class="text">
               <p>
                 Matters Lab’s publishing ecosystem surrounding creator economy include multiple
-                grants that empower independent writers: Frontline Fellowship for Chinese
-                Non-Fiction Writing to support civil journalists worldwide, Million Matters
-                Community Fund and Rocket Fund for community, Discord Matterverse Moderator Fund,
-                all to incubate a CreatorDAO in near future.
+                grants that empower independent writers: Frontline Fellowship to support civil
+                journalists worldwide, Million Matters Community Fund and Rocket Fund for community,
+                Discord Matterverse Moderator Fund, all to incubate a CreatorDAO in near future.
               </p>
             </div>
             <div class="buttons text-end">
-              <a
-                class="btn outline"
-                href="https://mattersonsite-en.mystrikingly.com/"
-                target="_blank"><span>LEARN MORE</span></a
+              <a class="btn outline" href={LINKS.frontlineFellowshipSite} target="_blank"
+                ><span>LEARN MORE</span></a
               >
             </div>
           </div>
@@ -724,7 +721,7 @@
         </script>
 
         <div class="buttons">
-          <a class="btn social matters" href="https://matters.news/" target="_blank"
+          <a class="btn social matters" href="https://matters.town/" target="_blank"
             ><i class="icon" /></a
           ><a class="btn social twitter" href="https://twitter.com/Mattersw3b" target="_blank"
             ><i class="icon" /></a

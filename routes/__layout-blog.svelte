@@ -108,7 +108,6 @@
   }
 
   @media (min-width: 768px) {
-
     article.post .center :global(img) {
       margin-top: 48px;
       max-width: 100%;
@@ -123,25 +122,23 @@
       border-radius: 20px;
     }
     article.post .source {
-    display: flex;
-    justify-content: start;
-    gap: 8px;
-    margin-bottom: 48px;
-  }
-  article.post :global(figcaption) {
-    color: rgb(0 0 0 / 40%);
-    text-align: center;
-    margin-top: -32px;
-    margin-bottom: 48px;
-  }
-
+      display: flex;
+      justify-content: start;
+      gap: 8px;
+      margin-bottom: 48px;
+    }
+    article.post :global(figcaption) {
+      color: rgb(0 0 0 / 40%);
+      text-align: center;
+      margin-top: -32px;
+      margin-bottom: 48px;
+    }
   }
 
   article.post .source {
     display: flex;
     justify-content: start;
     gap: 8px;
-
   }
 
   article.post :global(figcaption) {
@@ -149,7 +146,6 @@
     text-align: center;
     margin-top: -32px;
     margin-bottom: 48px;
-
   }
 
   article.post :global(*) {

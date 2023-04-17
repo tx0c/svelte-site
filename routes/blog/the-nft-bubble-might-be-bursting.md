@@ -52,7 +52,7 @@ It sure does look like the NFT bubble might be bursting, but this doesn’t chan
 
 How will NFTs define and change Internet norms? Among the numerous new mathematical specifications and technologies, why does the 4-year-old NFT have the most expandable commercial potential?
 
-As a [decentralized web 3 social media ecosystem](https://matterslab.medium.com/how-matters-news-542c437c7d99), [Matters Lab](https://matterslab.medium.com/) is passionate about the self-governance of creators for true independence from any platform.
+As a [decentralized web 3 social media ecosystem](https://matterslab.medium.com/how-matters.town-542c437c7d99), [Matters Lab](https://matterslab.medium.com/) is passionate about the self-governance of creators for true independence from any platform.
 
 We also launched Traveloggers, [the first NFT social media avatar to expand private ownership with collective creation](https://matterslab.medium.com/traveloggers-is-the-first-nft-social-media-avatar-to-expand-private-ownership-with-collective-e09875f5948d), an experiment for mutually beneficial collaboration between content creators and collectors.
 
@@ -95,7 +95,7 @@ In the world of blockchain and NFT, the uniqueness of each version of the digita
 
 Because of the emergence of a new ownership relationship between humans and digital content, there’s more room to envision new business models.
 
-When collection (claiming ownership) and circulation (open sharing) are not contradictory, the problems that cannot be solved on the traditional Internet can be solved theoretically in the new [web3](https://matterslab.medium.com/how-matters-news-542c437c7d99) Internet. NFT revolutionizes traditional online business models by delivering diversified value returns to public goods that are difficult to sell in an exclusive manner.
+When collection (claiming ownership) and circulation (open sharing) are not contradictory, the problems that cannot be solved on the traditional Internet can be solved theoretically in the new [web3](https://matterslab.medium.com/how-matters.town-542c437c7d99) Internet. NFT revolutionizes traditional online business models by delivering diversified value returns to public goods that are difficult to sell in an exclusive manner.
 
 ## A new era of ownership and collection
 
@@ -143,7 +143,7 @@ Perhaps the most well-known form of NFT are [NFT avatars](https://matters-lab.io
 
 The most popular NFT avatars include the Cryptopunks, which sold for millions of dollars for each. Then there’s the infamous Bored Ape Yacht Club NFT collection, which features a range of bored apes in unique clothing and accessories.
 
-If you’re looking for uniquely-innovative NFT avatars, you’ll find [Traveloggers](https://traveloggers.matters.news/)–the first NFT avatars to expand private ownership with collective creation. On Traveloggers, you can co-create with previous owners of your NFT in a logbook. You can find Traveloggers on [OpenSea](https://opensea.io/collection/traveloggers), the NFT marketplace.
+If you’re looking for uniquely-innovative NFT avatars, you’ll find [Traveloggers](https://traveloggers.matters.town/)–the first NFT avatars to expand private ownership with collective creation. On Traveloggers, you can co-create with previous owners of your NFT in a logbook. You can find Traveloggers on [OpenSea](https://opensea.io/collection/traveloggers), the NFT marketplace.
 
 ## NFTs are more than just a bubble
 
@@ -153,10 +153,10 @@ However, changes in the underlying architecture, reflected in one application an
 
 As Marc Andreessen, a pioneer of the Internet and co-founder of Netscape and a16z, said in an [interview](https://noahpinion.substack.com/p/interview-marc-andreessen-vc-and):
 
-> *"It can sometimes feel that all the exciting things have already happened, that the frontier is closed, that we’re at the end of technological history and there’s nothing left to do but maintain what already exists. This is just a failure of imagination. In fact, the opposite is true. We’re surrounded by rotting incumbents that will all need to be replaced by new technologies. Let’s get on it.”*
+> _"It can sometimes feel that all the exciting things have already happened, that the frontier is closed, that we’re at the end of technological history and there’s nothing left to do but maintain what already exists. This is just a failure of imagination. In fact, the opposite is true. We’re surrounded by rotting incumbents that will all need to be replaced by new technologies. Let’s get on it.”_
 
 ---
 
-***Interested in NFTs? Our inaugural NFT collection, Traveloggers, can be found at OpenSea [here](https://opensea.io/collection/traveloggers).***
+**_Interested in NFTs? Our inaugural NFT collection, Traveloggers, can be found at OpenSea [here](https://opensea.io/collection/traveloggers)._**
 
-***Follow [here for our newsletter](https://matters-lab.io/#follow_us) and @[Mattersw3b](https://twitter.com/Mattersw3b) on Twitter for the latest news and insights on NFT and web3, or start creating on our platform, [www.Matters.News](http://www.matters.news).***
+**_Follow [here for our newsletter](https://matters-lab.io/#follow_us) and @[Mattersw3b](https://twitter.com/Mattersw3b) on Twitter for the latest news and insights on NFT and web3, or start creating on our platform, [www.Matters.Town](http://www.matters.town)._**
