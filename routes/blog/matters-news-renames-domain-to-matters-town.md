@@ -4,7 +4,8 @@ date: "Apr 21, 2023"
 author: Matters Lab
 imgCover: >-
   https://mirror-media.imgix.net/publication-images/rWiB0jJX6KSReFz7ZKeAl.png?height=1080&width=2160&h=1080&w=2160&auto=compress
-summary: >-Matters, the popular community-driven Web3 social media platform, has announced its domain name–from Matters.News to Matters.Town, effective April 21, 2023 and onward.
+summary: >-
+Matters, the popular community-driven Web3 social media platform, has announced its domain name–from Matters.News to Matters.Town, effective April 21, 2023 and onward.
 categories:
   - Web3
 keywords:
