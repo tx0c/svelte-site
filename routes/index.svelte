@@ -538,7 +538,7 @@
         </div>
       </div>
     </header>
-    <article>
+    <!-- <article>
       <div class="row">
         <div class="col-6 col-md-3">
           <div class="member">
@@ -647,7 +647,7 @@
           </div>
         </div>
       </div>
-    </article>
+    </article> -->
   </div>
 </section>
 
