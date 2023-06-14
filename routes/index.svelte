@@ -524,7 +524,7 @@
   </div>
 </section>
 
-<section class="behind-matters-news">
+<!-- <section class="behind-matters-news">
   <div class="container">
     <header class="d-flex justify-content-between align-items-center flex-column flex-md-row">
       <h2 class="d-inline-block align-self-start align-self-md-center">Behind Matters Lab</h2>
@@ -538,7 +538,7 @@
         </div>
       </div>
     </header>
-    <!-- <article>
+    <article>
       <div class="row">
         <div class="col-6 col-md-3">
           <div class="member">
@@ -647,9 +647,9 @@
           </div>
         </div>
       </div>
-    </article> -->
+    </article>
   </div>
-</section>
+</section> -->
 
 <section class="follow_us" id="follow_us">
   <div class="container">
