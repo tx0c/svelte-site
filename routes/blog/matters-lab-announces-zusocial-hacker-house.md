@@ -4,7 +4,8 @@ date: "Oct 15, 2023"
 author: Matters Lab
 imgCover: >-
   https://images.mirror-media.xyz/publication-images/-ujbBOPbSe5He8TWVf_05.jpg?height=2400&width=2400
-  Matters Lab, Mask Network, and Social Layer Announce the Launch of ZuSocial Hacker House in Collaboration with Zuzalu
+summary: >-
+  Matters Lab has teamed up with Mask Network and Social Layer to launch the ZuSocial Hacker House in Istanbul from November 5th to 19th. This 14-day program, part of ZuConnect by Zuzalu and aligned with DevConnect, aims to unify Ethereum’s top developers, researchers, and fortify ties within the decentralized community.
 categories:
   - Zuzalu
   - Decentralized Social
@@ -16,7 +17,7 @@ keywords:
   - Web3
   - Social Graph
 ---
-https://images.mirror-media.xyz/publication-images/-ujbBOPbSe5He8TWVf_05.jpg?height=2400&width=2400
+![](https://images.mirror-media.xyz/publication-images/-ujbBOPbSe5He8TWVf_05.jpg?height=2400&width=2400)
 <figcaption>Matters Lab, Mask Network, and Social Layer Announce the Launch of ZuSocial Hacker House in Collaboration with Zuzalu</figcaption>
 
 *NEW YORK/TAIPEI/HONG KONG*, October 13th, 2023 –
@@ -31,7 +32,7 @@ Earlier this year, [Matters Lab](https://matters-lab.io) participated in the pop
 
 ZuSocial Hacker House is seamlessly integrated as a part of ZuConnect. Acting as a catalyst, ZuSocial Hacker House will play pivotal roles in both the DeSocial track in ZuConnect and the Hack Zuzalu hackathon – a concentrated effort by the partner teams focusing on decentralized social solutions and amalgamating DWeb and Web3's best offerings.
 
-Guo Liu, co-founder of Matters Lab emphasizes, "Our vision with ZuSocial is to bring together the finest minds in decentralized social, engage in profound discussions, and craft the way forward. By hosting panel discussions, we're not only featuring renowned personalities like Vitalik, while delving into pivotal decisions by large tech companies to embrace decentralization.”
+Guo Liu, co-founder of Matters Lab emphasizes, “Our vision with ZuSocial is to bring together the finest minds in decentralized social, engage in profound discussions, and craft the way forward. Through participatory discussions, we’re not only learning from the influential thought leaders in the space, but also delving into topics that are important but rarely mentioned, such as the cases where decentralization is irreplaceable, or the drives behind large tech companies’ move to decentralized protocols.”
 
 He further adds, "ZuSocial is not just another event; it's a transformative experience – a synergy of blockchain and other decentralized systems, focusing on human experiences rather than mere tech.”
 
@@ -41,20 +42,15 @@ The Web3 era brings transformative advancements, turning past visions into today
 
 To address these pressing queries, this hacker house will foster discussions, bringing together pioneers, practitioners, and researchers from diverse thought spectrums to share insights and challenge norms. Additionally, we are opening the doors to 20 resident developers, providing complimentary housing and workspace to facilitate team formation and active participation in discussions and hackathons. **Learn more at [hackerhouse.social](https://hackerhouse.social).**
 
-Matters Lab is proud to present a series of expert-curated panel discussions as part of the upcoming ZuSocial Hacker House event. Esteemed speakers such as Vitalik Buterin, alongside representatives from significant non-blockchain projects like Nostr, Radical x Change will address pressing questions in the decentralized space. Topics will encompass a blend of discussions, workshops, and interactive sessions, focusing on various aspects of decentralization, from on-chain identity systems to advanced protocols.
+Matters Lab is proud to present a series of expert-curated panel discussions as part of the upcoming ZuSocial Hacker House event. Esteemed speakers such as Vitalik Buterin, alongside representatives from significant non-blockchain centric projects like XMTP, Farcaster, and foundations such as RadicalXChange will address pressing questions in the decentralized space.
 
 ### ZuSocial Highlights
 
 * A 14-day immersive hacker house experience. **November 5th-19th, Istanbul Turkey.**
-
 * One day dedicated to the ZuConnect DeSocial track with multiple panel discussions, workshops, and lightning talks.
-
-* A grand demo day showcasing 4 distinctive tracks of development.
-
-* 4 Open Talks, 5 Round Tables. Curated panel discussions with topics like "*Consensus in Decentralized Social Networks*" and "*Pattern Language for Online Communities.*"
-
-* Esteemed speakers including Ethereum's co-founder, Vitalik Buterin, Rabble from nos.social,  Radical x Change Matt Prewitt, Founder of GitCoin Kevin Owocki. More luminaries from the decentralized world are joining the line up. For the latest details, please visit : [https://hackerhouse.social/](https://hackerhouse.social/.)
-
+* A demo day showcasing 4 distinctive tracks of development: On-Chain Identity and Reputation, Users and Markets for Decentralized Social, Autonomous Social, All About Social Graph.
+* Numerous talks, unconferences, and wisdom-filled moments of serendipity
+* Esteemed speakers including Ethereum’s co-founder, Vitalik Buterin, RadicalXChange Matt Prewitt, Founder of GitCoin Kevin Owocki. More luminaries from the decentralized world are joining the line up. For the latest details, please visit : [https://hackerhouse.social/](https://hackerhouse.social/)
 * **Apply Now**: Limited seats available! Only 20 spots are open for the hacker house until full. Interested participants can apply at [https://hackerhouse.social/](https://hackerhouse.social/.). Follow [@Mattersw3b](https://twitter.com/Mattersw3b) to get the latest updates on ZuSocial Hacker House.
 
 ### Co-organizers of ZuSocial Hacker House:
