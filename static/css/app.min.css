@@ -11698,11 +11698,6 @@ footer#footer .text p {
     color: #ddd
 }
 
-footer#footer .text p .company {
-    margin-top: 24px;
-    color: #999C9D;
-}
-
 footer#footer .buttons {
     margin: 24px 0;
     padding: 0 0 8px 0;
@@ -11711,7 +11706,7 @@ footer#footer .buttons {
 
 @media(min-width: 768px) {
     footer#footer .buttons {
-        margin: 24px 0 0 0;
+        margin: 48px 0 0 0;
         padding: 0;
         border-bottom: none
     }
