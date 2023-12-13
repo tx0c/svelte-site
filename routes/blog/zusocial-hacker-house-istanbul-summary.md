@@ -1,12 +1,12 @@
 ---
-title: ZuSocial Hacker House in Istanbul: A Hub of Decentralized Social Innovation and Community Engagement 
+title: "ZuSocial Hacker House in Istanbul: A Hub of Decentralized Social Innovation and Community Engagement"
 date: Dec 02, 2023
 author: Matters Lab
 imgCover: >-
   https://images.mirror-media.xyz/publication-images/jLObwyxO2tx5krHVC0SRM.jpg?height=955&width=1274
 summary: >-
   Starting from the decentralized social day in ZuConnect where 9 panels brought together experts, researchers, and builders from realms of DWeb and Web3, we challenge the status quo of social networks as the information fabric to weave our personal life and social consensus. By blending over 20+ workshops, collaborative projects, and 4 focused hackathon tracks in collaboration with HackZuzalu and ETH Global, ZuSocial provided a holistic experience that enriched the knowledge, skills, and networks of all hackers and builders in Istanbul.
-Categories:  
+categories:
   - Decentralized Social
   - Events
   - Panels
