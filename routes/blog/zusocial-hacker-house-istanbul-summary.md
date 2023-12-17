@@ -1,9 +1,8 @@
 ---
 title: "ZuSocial Hacker House in Istanbul: A Hub of Decentralized Social Innovation and Community Engagement"
 date: Dec 02, 2023
-author: Matters Lab
 imgCover: >-
-  https://images.mirror-media.xyz/publication-images/jLObwyxO2tx5krHVC0SRM.jpg?height=955&width=1274
+  https://images.mirror-media.xyz/publication-images/NBiPIO-qpedd0R67qAl2B.jpeg?height=637&width=1274
 summary: >-
   Starting from the decentralized social day in ZuConnect where 9 panels brought together experts, researchers, and builders from realms of DWeb and Web3, we challenge the status quo of social networks as the information fabric to weave our personal life and social consensus. By blending over 20+ workshops, collaborative projects, and 4 focused hackathon tracks in collaboration with HackZuzalu and ETH Global, ZuSocial provided a holistic experience that enriched the knowledge, skills, and networks of all hackers and builders in Istanbul.
 categories:
@@ -20,12 +19,12 @@ keywords:
   - Istanbul
 ---
 
-From November 5th to 19th, the [ZuSocial Hacker House](http://hackerhouse.social) held in Istanbul embarked on a journey to tackle some of the most pressing challenges in decentralized social. Organized by communities of [Matters Lab](http://matters-lab.io), [Mask Network](https://mask.io/), [Social Layer](https://app.sociallayer.im/), and [Zuzalu](https://www.zuzalu.city/dashboard/home), it was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape.
+From November 5th to 19th, the [ZuSocial Hacker House](http://hackerhouse.social) held in Istanbul embarked on a journey to tackle some of the most pressing challenges in decentralized social. Organized by communities of [Matters Lab](http://matters-lab.io), [Mask Network](https://mask.io/), [Social Layer](https://app.sociallayer.im/), [Zuzalu](https://www.zuzalu.city/dashboard/home) and [DWeb](https://getdweb.net/) it was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape.
 
 Starting from the [decentralized social day](https://matters.town/@Matterslab/459375) in [ZuConnect](http://zuzalu.city) where 9 panels brought together experts, researchers, and builders from realms of [DWeb](https://getdweb.net/) and Web3, we challenge the status quo of social networks as the information fabric to weave our personal life and social consensus. By blending over 20+ workshops, collaborative projects, and 4 focused hackathon tracks in collaboration with [HackZuzalu](https://www.hackzuzalu.com/) and [ETH Global](https://ethglobal.com/events/istanbul), it provided a holistic experience that enriched the knowledge, skills, and networks of all hackers and builders in Istanbul.
 
-![Organized by communities of Matters Lab, Mask Network, Social Layer, and Zuzalu,  ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape. ](https://images.mirror-media.xyz/publication-images/jLObwyxO2tx5krHVC0SRM.jpg?height=955&width=1274)
-<figcaption> Organized by communities of Matters Lab, Mask Network, Social Layer, and Zuzalu, ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape. </figcaption>
+![Organized by communities of Matters Lab, Mask Network, Social Layer, DWeb and Zuzalu,  ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape. ]([https://images.mirror-media.xyz/publication-images/qqR6801AafvAOmS4dDADa.jpg?height=930&width=1284])
+<figcaption> Organized by communities of Matters Lab, Mask Network, Social Layer, Zuzalu, and DWeb, ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape. </figcaption>
 
 ### ZuConnect Decentralized Social Day
 
@@ -104,7 +103,7 @@ These projects reflect the vibrant potential of decentralized social networks. T
 
 The two-week long ZuSocial Hacker House held in Istanbul, in synergy with ZuConnect, the event brought together expertise from DWeb, innovative experiments from Web3, and lessons learned from physical public spaces. The focus was to ask the right questions and pave the way for a new kind of public infrastructure in the digital world.
 
-Co-organized by communities of Matters Lab, Mask Network and Social Layer, we’d like to send gratitude to our sponsors:[iExec](https://iex.ec/), [Web3MQ](https://www.web3mq.com/), [Base](https://base.org/), [Litentry](https://www.litentry.com/), and [L2Scan](https://twitter.com/l2scan). This event stands as a beacon for future explorations in decentralized social infra, illuminating the power of community, collaboration, and innovation in shaping a more decentralized and user-empowered digital future.
+Co-organized by communities of Matters Lab, Mask Network and Social Layer, Zuzalu and DWeb, we’d like to send gratitude to our sponsors:[iExec](https://iex.ec/), [Web3MQ](https://www.web3mq.com/), [Base](https://base.org/), [Litentry](https://www.litentry.com/), and [L2Scan](https://twitter.com/l2scan). This event stands as a beacon for future explorations in decentralized social infra, illuminating the power of community, collaboration, and innovation in shaping a more decentralized and user-empowered digital future.
 
 ### More stories of ZuSocial:
 
