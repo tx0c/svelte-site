@@ -764,7 +764,7 @@
                     <h3>{post.title}</h3>
                   </div>
                   <div class="text">
-                    <p>Author: {post.author}</p>
+                    <p>Author: {post.author || "Matters Lab"}</p>
                     <p style="white-space: pre-wrap;">{post.summary}</p>
                   </div>
                 </div>

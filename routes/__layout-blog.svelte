@@ -28,7 +28,7 @@
 <svelte:head>
   <meta name="description" content={description} />
   <meta name="keywords" content={metaKeywords} />
-  <meta name="author" content={author} />
+  <meta name="author" content={author || "Matters Lab"} />
   <link rel="canonical" href={`https://${LINKS.canonicalSite}${url.pathname}`} />
   <meta property="og:title" content={title} />
   <meta property="og:type" content="website" />
@@ -59,7 +59,7 @@
       <div>{date}</div>
       <div>・</div>
       <div>
-        {#if authorLink}<a href={authorLink} target="_blank">{author}</a>{:else}{author}{/if}
+        {#if authorLink}<a href={authorLink} target="_blank">{author}</a>{:else}{author || "Matters Lab"}{/if}
       </div>
     </div>
   </div>
