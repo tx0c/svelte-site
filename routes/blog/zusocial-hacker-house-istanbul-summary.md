@@ -23,7 +23,8 @@ From November 5th to 19th, the [ZuSocial Hacker House](http://hackerhouse.social
 
 Starting from the [decentralized social day](https://matters.town/@Matterslab/459375) in [ZuConnect](http://zuzalu.city) where 9 panels brought together experts, researchers, and builders from realms of [DWeb](https://getdweb.net/) and Web3, we challenge the status quo of social networks as the information fabric to weave our personal life and social consensus. By blending over 20+ workshops, collaborative projects, and 4 focused hackathon tracks in collaboration with [HackZuzalu](https://www.hackzuzalu.com/) and [ETH Global](https://ethglobal.com/events/istanbul), it provided a holistic experience that enriched the knowledge, skills, and networks of all hackers and builders in Istanbul.
 
-![Organized by communities of Matters Lab, Mask Network, Social Layer, DWeb and Zuzalu,  ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape. ]([https://images.mirror-media.xyz/publication-images/qqR6801AafvAOmS4dDADa.jpg?height=930&width=1284])
+![Organized by communities of Matters Lab, Mask Network, Social Layer, DWeb and Zuzalu,  ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape.](https://images.mirror-media.xyz/publication-images/qqR6801AafvAOmS4dDADa.jpg?height=930&width=1284)
+
 <figcaption> Organized by communities of Matters Lab, Mask Network, Social Layer, Zuzalu, and DWeb, ZuSocial Hacker House was a confluence of ideas, envisioning a resilient, engaging, and plural social landscape. </figcaption>
 
 ### ZuConnect Decentralized Social Day
