@@ -1,3 +1,4 @@
+---
 title: "Discovering Connections in Nomadism: Matters Meet-up Events at Wamotopia Chiang Mai, Thailand"
 date: "Dec 26, 2023"
 author: Matters Lab
@@ -13,6 +14,7 @@ keywords:
   - digital nomad
   - WAMO
   - Chiang Mai
+---
 
 ![Matters events : roundtable in Chiang Mai.](https://images.mirror-media.xyz/publication-images/vN6_FfYo6jqrFxhF0islM.jpg?height=900&width=1200)
 
