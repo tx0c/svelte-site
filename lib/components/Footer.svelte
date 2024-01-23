@@ -12,9 +12,6 @@
             Matters Lab is building a Web3 social media ecosystem that lets users collaboratively
             create and monetize digital assets with complete control.
           </p>
-          <p class="company">
-            © Zaihu Technology Limited all rights reserved
-          </p>
         </div>
         <div class="buttons">
           <a class="btn social twitter" href="https://twitter.com/Mattersw3b" target="_blank"
