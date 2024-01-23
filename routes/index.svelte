@@ -156,7 +156,7 @@
       </div>
     </header>
     <article class="d-flex flex-wrap justify-content-md-center">
-      <a class="longling_capital ratio ratio-1x1" /><a class="protocol_labs ratio ratio-1x1" /><a
+      <a class="protocol_labs ratio ratio-1x1" /><a
         class="mask ratio ratio-1x1"
       /><a class="crust ratio ratio-1x1" /><a class="likecoin ratio ratio-1x1" /><a
         class="snap_fingers ratio ratio-1x1"
