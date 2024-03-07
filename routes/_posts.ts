@@ -6,8 +6,10 @@ export async function getPosts() {
     iterablePostFiles.map(async ([path, resolver]) => {
       const { metadata } = await resolver();
       const postPath = path.slice(1, -3);
+      // console.log(`found post:`, { postPath, metadata });
 
       return {
+        author: "Matters Lab", // default to Matters Lab if unset
         ...metadata,
         path: postPath,
       };
