@@ -32,7 +32,7 @@
             target="_blank"><i class="icon" /></a
           ><a
             class="btn social instagram"
-            href="https://www.instagram.com/matterslab2018/"
+            href="https://www.instagram.com/matters.lab/"
             target="_blank"><i class="icon" /></a
           ><a class="btn social youtube" href="https://www.youtube.com/c/Matterslab" target="_blank"
             ><i class="icon" /></a
