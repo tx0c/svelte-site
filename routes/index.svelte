@@ -156,13 +156,13 @@
       </div>
     </header>
     <article class="d-flex flex-wrap justify-content-md-center">
-      <a class="protocol_labs ratio ratio-1x1" /><a
-        class="mask ratio ratio-1x1"
-      /><a class="crust ratio ratio-1x1" /><a class="likecoin ratio ratio-1x1" /><a
-        class="snap_fingers ratio ratio-1x1"
-      /><a class="incuba_alpha ratio ratio-1x1" /><a
-        class="google_news_initiative ratio ratio-1x1"
-      /><a class="grant_for_the_web ratio ratio-1x1" />
+      <a class="protocol_labs ratio ratio-1x1" /><a class="mask ratio ratio-1x1" /><a
+        class="crust ratio ratio-1x1"
+      /><a class="likecoin ratio ratio-1x1" /><a class="snap_fingers ratio ratio-1x1" /><a
+        class="incuba_alpha ratio ratio-1x1"
+      /><a class="google_news_initiative ratio ratio-1x1" /><a
+        class="grant_for_the_web ratio ratio-1x1"
+      />
     </article>
   </div>
 </section>
@@ -248,6 +248,32 @@
             </div>
             <div class="buttons text-end">
               <a class="btn outline" href="https://matters.town/" target="_blank"
+                ><span>LEARN MORE</span></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="matters_billboard">
+        <div class="row">
+          <div class="col-12 col-md-6">
+            <figure class="img"><img class="img-fluid" src="img/ps-billboard.png" /></figure>
+          </div>
+          <div class="col-12 col-md-6">
+            <div class="title">
+              <h3>Billboard</h3>
+            </div>
+            <div class="text">
+              <p>
+                Matters Lab has launched a new on-chain advertising protocol and matching fund
+                mechanism called Billboard. Starting today, users can see the "Billboard" section on
+                the homepage of Matters.town, where advertisements are displayed. 80% of the USDT
+                revenue generated from the advertisements will be distributed to Matters.town’s
+                creators who meet the criteria.
+              </p>
+            </div>
+            <div class="buttons text-end">
+              <a class="btn outline" href="https://billboard.matters-lab.io/" target="_blank"
                 ><span>LEARN MORE</span></a
               >
             </div>

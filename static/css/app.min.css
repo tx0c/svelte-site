@@ -11344,7 +11344,11 @@ body hr {
 
 #wrapper .img-fluid {
     max-width: 100%;
-    height: auto
+    height: auto;
+}
+
+.row .img .img-fluid {
+  border-radius: 1rem;
 }
 
 #wrapper .row {
