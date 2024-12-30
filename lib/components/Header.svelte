@@ -21,7 +21,7 @@
               target="_blank"><i class="icon" /></a
             ><a
               class="btn social discord"
-              href="https://discord.com/invite/matterslab"
+              href="https://discord.gg/2cgcWMGEbX"
               target="_blank"><i class="icon" /></a
             >
           </div>
