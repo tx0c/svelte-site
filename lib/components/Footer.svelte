@@ -16,7 +16,7 @@
         <div class="buttons">
           <a class="btn social twitter" href="https://twitter.com/Mattersw3b" target="_blank"
             ><i class="icon" /></a
-          ><a class="btn social discord" href="http://discord.gg/matterslab" target="_blank"
+          ><a class="btn social discord" href="https://discord.gg/2cgcWMGEbX" target="_blank"
             ><i class="icon" /></a
           ><a
             class="btn social opensea"
