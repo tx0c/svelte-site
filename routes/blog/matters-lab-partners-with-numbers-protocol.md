@@ -39,7 +39,7 @@ The partnership demonstrates how technology can be a powerful force in supportin
 
 Established in 2018, [Matters Lab](http://matters-lab.io/) is the massively popular Web3 social media ecosystem redefining the creator economy. With our inaugural project [Matters.Town](http://matters.town), a self-regulated community of more than 100,000 creators, we have built a decentralized content publication ecosystem that is committed to user experience, quality content, and free speech.
 
-[Website](https://matters-lab.io/) | [Twitter](https://twitter.com/Mattersw3b) | [Discord](https://discord.gg/matterslab) | [Matters.Town](https://matters.town/)
+[Website](https://matters-lab.io/) | [Twitter](https://twitter.com/Mattersw3b) | [Discord](https://discord.gg/2cgcWMGEbX) | [Matters.Town](https://matters.town/)
 
 ### About Numbers Protocol
 
